@@ -12,3 +12,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   Gern übernehme ich Ihren Auftrag.
 baseurl: "/revesz.de"
 url: "https://rixx.github.io"
+
+nav_de:
+  - title: Startseite
+    url: /
+  - title: Leistungen
+    url: /leistungen
+  - title: Über mich
+    url: /cv
+  - title: Publikationen
+    url: /publikationen
+  - title: Links
+    url: /links
+  - title: [magyar]
+    url: /hu

@@ -11,14 +11,57 @@
     <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}" />
     <meta property="og:url" content="https://www.denog.de/de/kontakt.html" />
     <meta property="og:site_name" content="{{ site.title }}" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
   </head>
 
   <body>
-    <main role="main">
-      {{ content }}
-    </main>
+    <header>
+      <div id="head-text">
+        <div id="title">
+          Christina Kunze
+        </div>
+        <div id="subtitle">
+          Hungarologin und Übersetzerin
+        </div>
+      </div>
+      <div>bild</div>
+    </header>
+    <nav id="site-navigation">
+            <span id="menu-icon">☰</span>
+            <ul id="menu-main">
+                {% assign current_page = nil %}
+                {% for link in site.nav_de %}
+                    {% assign current = '' %}
+                    {% if page.url == "/" and link.url == "/index.html" %}
+                        {% assign current = 'current' %}
+                        {% assign current_page = link %}
+                    {% endif %}
+                    {% if page.url contains link.url %}
+                        {% assign current = 'current' %}
+                        {% assign current_page = link %}
+                    {% endif %}
+                    <li class="menu-item {{ current }}">
+                        <a href="{% if link.url contains "://" %}{{ link.url }}{% else %}{{ link.url | prepend: site.baseurl }}{% endif %}"
+                            {% if link.url contains "://" %}target="_blank"{% endif %}>
+                            {{ link.title }}
+                        </a>
+                    </li>
+                {% endfor %}
+                <!-- TODO kontakt+impressum ins mobile menü -->
+            </ul>
+    </nav>
+    <div id="main-container">
+      <main role="main">
+        {{ content }}
+      </main>
+    </div>
+    <footer>
+      <h2>Kontakt</h2>
+      <h3>Anschrift</h3>
+      <h3>Telefon</h3>
+      <h3>E-Mail</h3>
+      <p>mehr text</p>
+    </footer>
+    <a id="impressum" href="{{site.baseurl}}/impressum">Impr./Datenschutz</a>
   </body>
-
-  <footer>
-  </footer>
 </html>

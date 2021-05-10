@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 Sie brauchen eine Übersetzung aus dem Ungarischen? Dann sind Sie hier genau richtig. Ich bin staatlich geprüfte Übersetzerin für Ungarisch und allgemein beeidigte Dolmetscherin für die Berliner Gerichte und Notare. Gern übernehme ich Ihren Auftrag. mehr

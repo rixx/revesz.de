@@ -1,17 +1,18 @@
 ---
 title: Impressum / Datenschutz
+layout: default
 ---
 
-Christina Kunze
-Berliner Allee 198
-13088 Berlin
-Telefon: +49 30 92377807
+Christina Kunze<br>
+Berliner Allee 198<br>
+13088 Berlin<br>
+Telefon: +49 30 92377807<br>
 E-Mail: kunze@revesz.de
 
-Umsatzsteuer-Identifikationsnummer gemäß
+Umsatzsteuer-Identifikationsnummer gemäß<br>
 § 27a Umsatzsteuergesetz: DE185538692
 
-Inhaltlich verantwortlich gemäß § 10 Absatz 3 MDStV:
+Inhaltlich verantwortlich gemäß § 10 Absatz 3 MDStV:<br>
 Christina Kunze
 
 Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links.
