@@ -36,7 +36,7 @@ nav ul {
 }
 nav ul a {
     color: #eeeeff;
-    font-weight: bold;
+    font-weight: normal;
     text-decoration: none;
 }
 #main-container {
@@ -52,6 +52,11 @@ main {
     padding: 6px 20px;
     color: #000070;
 }
+main h1 {
+    font-size: 14px;
+    font-weight:normal;
+}
+
 footer {
     background-color: #679c30;
     padding: 6px 20px;
@@ -63,10 +68,10 @@ footer {
     width: 200px;
 }
 a#impressum {
-    background-color: #cfe2f9;
+    background-color: #a5a5a5;
     border-radius: 3px;
-    padding: 6px;
-    color: #eeeeff;
+    padding: 6px 20px;
+    color: #000070;
     position: fixed;
     right: 20px;
     bottom: 20px;
