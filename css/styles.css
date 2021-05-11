@@ -52,10 +52,6 @@ main {
     padding: 6px 20px;
     color: #000070;
 }
-main h1 {
-    font-size: 14px;
-    font-weight:normal;
-}
 
 footer {
     background-color: #679c30;
@@ -79,3 +75,5 @@ a#impressum {
     text-align: center;
     text-decoration: none;
 }
+h1 {font-size: 28px; font-weight:normal;}
+h2 {font-size: 20px; font-weight:normal;}
