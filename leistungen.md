@@ -16,7 +16,7 @@ Wieviel Zeit ich für eine Übersetzung benötige und was sie kostet, hängt von
 <li><span style="font-weight:bold;">Filmübersetzungen oder Untertitelungen</span> rechne ich nach übersetzter oder untertitelter Minute ab.</li><p>
 <li>Für <span style="font-weight: bold;">Fachübersetzungen</span> gilt ein Zeilenhonorar. Eine Normzeile besteht aus 55 Anschlägen (einschließlich Leerzeichen). Bei beglaubigten Übersetzungen kommt eine Beglaubigungsgebühr hinzu. <br>Je nach Art des Projekts kann auch ein Stunden- oder ein Pauschalhonorar vereinbart werden.</li><p>
 
-<h>Dolmetschen</h3>
+<h3>Dolmetschen</h3>
 Die Abrechnungseinheit für <span style="font-weight:bold;">Dolmetschleistungen</span> ist die Arbeitsstunde. Wegezeiten gelten als Arbeitszeit. <br>Auch hier ist ein Pauschalhonorar möglich.
 
 <h3>Sonstiges</h3>
