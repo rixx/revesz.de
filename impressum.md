@@ -25,6 +25,7 @@ Ohne Ihre Einwilligung werden diese Daten nicht an Dritte weitergegeben.
 
 Verantwortlich im Sinne der Datenschutz-Grundverordnung (DSGVO) und anderer nationaler Datenschutzgesetze: Christina Kunze (Kontaktdaten siehe oben) 
 
+
 <img src="header_re_bild1_kl.jpg">
 <img src="header_re_bild2_kl.jpg">
 <img src="header_re_bild3_kl.jpg">
