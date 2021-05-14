@@ -5,11 +5,12 @@ layout: default
 <h1>Leistungen</h1>
 
 <h2>Erfahrung</h2>
-Mit der beruflichen Tätigkeit als Übersetzerin habe ich parallel zu meinem Studium der Hungarologie und Klassischen Philosophie begonnen; schon am Anfang des Studiums war es mein Ziel zu übersetzen. <br>Seit 1996 übersetze ich Literatur und Fachtexte, letztere vor allem aus dem juristischen und dem geisteswissenschaftlichen Bereich, insbesondere Literaturwissenschaft, Philosophie und Kunstgeschichte. <p>
+Mit der beruflichen Tätigkeit als Übersetzerin habe ich parallel zu meinem Studium der Hungarologie und Klassischen Philosophie begonnen; schon am Anfang des Studiums war es mein Ziel zu übersetzen. <br>Seit 1996 übersetze ich Literatur und Fachtexte, letztere vor allem aus dem juristischen und dem geisteswissenschaftlichen Bereich, insbesondere Literaturwissenschaft, Philosophie und Kunstgeschichte.<br>
+
 
 <h2>Leistungen</h2>
 Wieviel Zeit ich für eine Übersetzung benötige und was sie kostet, hängt von vielen Faktoren ab, zum Beispiel vom Umfang, von der Lesbarkeit und vom Schwierigkeitsgrad des zu übersetzenden Textes. Um das verlässlich einschätzen zu können, muss ich den Text oder Ausschnitte davon sehen.
-<br>Bitte setzen Sie sich mit mir in Kontakt, ich unterbreite Ihnen zeitnah ein Angebot.
+<br>Bitte setzen Sie sich mit mir in Kontakt, ich unterbreite Ihnen zeitnah ein Angebot.<br<&nbsp;
 
 <h3>Übersetzungen</h3>
 <li>Die Berechnungsgrundlage für Literaturübersetzungen ist die <a href="https://literaturuebersetzer.de/berufspraktisches/rechtliches/normseite/">Normseite</a>.</li>
