@@ -23,9 +23,7 @@ Eine Auswertung der Daten zu Marketingzwecken findet nicht statt.
 Umgang mit Kontaktdaten: Nehmen Sie mit uns als Websitebetreiber durch die angebotenen Kontaktmöglichkeiten Verbindung auf, werden Ihre Angaben gespeichert, damit auf diese zur Bearbeitung und Beantwortung Ihrer Anfrage zurückgegriffen werden kann.
 Ohne Ihre Einwilligung werden diese Daten nicht an Dritte weitergegeben.
 
-Verantwortlich im Sinne der Datenschutz-Grundverordnung (DSGVO) und anderer nationaler Datenschutzgesetze ist:
-Christina Kunze
-Kontaktdaten siehe oben. 
+Verantwortlich im Sinne der Datenschutz-Grundverordnung (DSGVO) und anderer nationaler Datenschutzgesetze: Christina Kunze (Kontaktdaten siehe oben) 
 
 <img src="header_re_bild1_kl.jpg">
 <img src="header_re_bild2_kl.jpg">
