@@ -77,4 +77,5 @@ a#impressum {
 }
 h1 {font-size: 28px; font-weight:normal;}
 h2 {font-size: 20px; font-weight:normal;}
+h3 {font-size: 16px; text-decoration:underline; text-underline-position:under; text-decoration-color:red; 
 p {font-size: 16px; font-weight:normal;}
