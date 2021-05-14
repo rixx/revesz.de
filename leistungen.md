@@ -18,7 +18,7 @@ Wieviel Zeit ich für eine Übersetzung benötige und was sie kostet, hängt von
 <li>Für Fachübersetzungen gilt ein Zeilenhonorar. Eine Normzeile besteht aus 55 Anschlägen (einschließlich Leerzeichen). Bei beglaubigten Übersetzungen kommt eine Beglaubigungsgebühr hinzu. <br>Je nach Art des Projekts kann auch ein Stunden- oder ein Pauschalhonorar vereinbart werden.</li><p>
 
 <h3>Dolmetschen</h3>
-Die Abrechnungseinheit für <span style="font-weight:bold;">Dolmetschleistungen</span> ist die Arbeitsstunde. Wegezeiten gelten als Arbeitszeit. <br>Auch hier ist ein Pauschalhonorar möglich.
+Die Abrechnungseinheit für Dolmetschleistungen ist die Arbeitsstunde. Wegezeiten gelten als Arbeitszeit. <br>Auch hier ist ein Pauschalhonorar möglich.
 
 <h3>Sonstiges</h3>
 <li>Für Gutachten zu literarischen oder Sachtexten berechne ich ein Pauschalhonorar, das sich nach dem Umfang des zu begutachtenden Textes und nach Ihren konkreten Anforderungen an das Gutachten bemisst. </li>
