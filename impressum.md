@@ -27,7 +27,7 @@ Verantwortlich im Sinne der Datenschutz-Grundverordnung (DSGVO) und anderer nati
 Christina Kunze
 Kontaktdaten siehe oben. 
 
-<figure>
+<figure display:inline-block;>
 <img src="header_re_bild1_kl.jpg">
 <img src="header_re_bild2_kl.jpg">
 <img src="header_re_bild3_kl.jpg">
