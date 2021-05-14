@@ -5,16 +5,16 @@ layout: default
 <h1>Leistungen</h1>
 
 <h2>Erfahrung</h2>
-Mit der beruflichen Tätigkeit als Übersetzerin habe ich parallel zu meinem Studium der Hungarologie und Klassischen Philosophie begonnen; schon am Anfang des Studiums war es mein Ziel zu übersetzen. <br>Seit 1996 übersetze ich Literatur und Fachtexte, letztere vor allem aus dem juristischen und dem geisteswissenschaftlichen Bereich, insbesondere Literaturwissenschaft, Philosophie und Kunstgeschichte. 
+Mit der beruflichen Tätigkeit als Übersetzerin habe ich parallel zu meinem Studium der Hungarologie und Klassischen Philosophie begonnen; schon am Anfang des Studiums war es mein Ziel zu übersetzen. <br>Seit 1996 übersetze ich Literatur und Fachtexte, letztere vor allem aus dem juristischen und dem geisteswissenschaftlichen Bereich, insbesondere Literaturwissenschaft, Philosophie und Kunstgeschichte. <p>
 
 <h2>Leistungen</h2>
 Wieviel Zeit ich für eine Übersetzung benötige und was sie kostet, hängt von vielen Faktoren ab, zum Beispiel vom Umfang, von der Lesbarkeit und vom Schwierigkeitsgrad des zu übersetzenden Textes. Um das verlässlich einschätzen zu können, muss ich den Text oder Ausschnitte davon sehen.
 <br>Bitte setzen Sie sich mit mir in Kontakt, ich unterbreite Ihnen zeitnah ein Angebot.
 
 <h3>Übersetzungen</h3>
-<li>Die Berechnungsgrundlage für <span style="font-weight:bold;">Literaturübersetzungen</span> ist die <a href="https://literaturuebersetzer.de/berufspraktisches/rechtliches/normseite/">Normseite</a>.</li><p>
-<li><span style="font-weight:bold;">Filmübersetzungen oder Untertitelungen</span> rechne ich nach übersetzter oder untertitelter Minute ab.</li><p>
-<li>Für <span style="font-weight: bold;">Fachübersetzungen</span> gilt ein Zeilenhonorar. Eine Normzeile besteht aus 55 Anschlägen (einschließlich Leerzeichen). Bei beglaubigten Übersetzungen kommt eine Beglaubigungsgebühr hinzu. <br>Je nach Art des Projekts kann auch ein Stunden- oder ein Pauschalhonorar vereinbart werden.</li><p>
+<li>Die Berechnungsgrundlage für Literaturübersetzungen ist die <a href="https://literaturuebersetzer.de/berufspraktisches/rechtliches/normseite/">Normseite</a>.</li>
+<li>Filmübersetzungen oder Untertitelungen rechne ich nach übersetzter oder untertitelter Minute ab.</li>
+<li>Für Fachübersetzungen gilt ein Zeilenhonorar. Eine Normzeile besteht aus 55 Anschlägen (einschließlich Leerzeichen). Bei beglaubigten Übersetzungen kommt eine Beglaubigungsgebühr hinzu. <br>Je nach Art des Projekts kann auch ein Stunden- oder ein Pauschalhonorar vereinbart werden.</li><p>
 
 <h3>Dolmetschen</h3>
 Die Abrechnungseinheit für <span style="font-weight:bold;">Dolmetschleistungen</span> ist die Arbeitsstunde. Wegezeiten gelten als Arbeitszeit. <br>Auch hier ist ein Pauschalhonorar möglich.
