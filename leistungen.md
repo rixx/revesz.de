@@ -21,8 +21,8 @@ Wieviel Zeit ich für eine Übersetzung benötige und was sie kostet, hängt von
 Die Abrechnungseinheit für <span style="font-weight:bold;">Dolmetschleistungen</span> ist die Arbeitsstunde. Wegezeiten gelten als Arbeitszeit. <br>Auch hier ist ein Pauschalhonorar möglich.
 
 <h3>Sonstiges</h3>
-<li>Für Gutachten zu literarischen oder Sachtexten berechne ich ein Pauschalhonorar, das sich nach dem Umfang des zu begutachtenden Textes und nach Ihren konkreten Anforderungen an das Gutachten bemisst. </li><p>
-<li>Wenn Sie aus einem Text nur bestimmte Informationen benötigen, fasse ich gern den Inhalt zusammen und übersetze nur die relevanten Passagen. Hier kann das Honorar aus dem Zeilenpreis für die Übersetzung und einem Stundensatz für die anderen Arbeiten bestehen, auf Wunsch kann aber auch etwas anderes vereinbart werden. </li><p>
-<li>Zusätzliche Recherche oder über das reine Übersetzen hinausgehende Arbeiten, beispielsweise die Aktualisierung / Lokalisierung von Literaturlisten werden – auf Stundenbasis oder pauschal – gesondert in Rechnung gestellt.</li><p>
+<li>Für Gutachten zu literarischen oder Sachtexten berechne ich ein Pauschalhonorar, das sich nach dem Umfang des zu begutachtenden Textes und nach Ihren konkreten Anforderungen an das Gutachten bemisst. </li>
+<li>Wenn Sie aus einem Text nur bestimmte Informationen benötigen, fasse ich gern den Inhalt zusammen und übersetze nur die relevanten Passagen. Hier kann das Honorar aus dem Zeilenpreis für die Übersetzung und einem Stundensatz für die anderen Arbeiten bestehen, auf Wunsch kann aber auch etwas anderes vereinbart werden. </li>
+<li>Zusätzliche Recherche oder über das reine Übersetzen hinausgehende Arbeiten, beispielsweise die Aktualisierung / Lokalisierung von Literaturlisten werden – auf Stundenbasis oder pauschal – gesondert in Rechnung gestellt.</li>
 <li>Lektorate/Korrektorate rechne ich nach Normseiten oder Stunden ab. Auch hierbei hängt die Höhe des Honorars vom Textzustand und Ihren Wünschen für das Lektorat ab.</li>
 
