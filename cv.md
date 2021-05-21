@@ -2,10 +2,7 @@
 title:cv
 layout: default
 ---
-
-
 <h1>LEBENSLAUF</h1>
-
 <table cellpadding=5 border=0>
 <tr><td>Ausbildung:</td><td>1989</td><td>Abitur in Berlin</td></tr>
 <tr><td> </td><td>1989-92</td><td>Ausbildung zur Ergotherapeutin in Berlin-Buch</td></tr>
