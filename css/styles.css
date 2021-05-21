@@ -13,7 +13,6 @@ header {
     justify-content: space-between;
     padding: 0 120px; 
     background: linear-gradient(to right, #8bb8f1, #fff);
-    background-image: url(header.jpg);
 }
 header #title {
     font-size: 24px;
