@@ -17,4 +17,4 @@ layout: default
 <tr><td> </td><td>2001–2004</td><td>Lehrbeauftragte an der Humboldt-Universität zu Berlin</td></tr>
 <tr><td>&nbsp;</td><td style="vertical-align:top;">2003–</td><td>Beeidigte Dolmetscherin und ermächtigte Übersetzerin für die Berliner Gerichte und Notare</td>   
 <tr><td>&nbsp;</td><td>&nbsp;</td><td>Mitglied im <a href="https://literaturuebersetzer.de/">VdÜ</a></td></tr>
- </table>
+ 
