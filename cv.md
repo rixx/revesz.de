@@ -20,3 +20,4 @@ layout: default
 <tr><td>&nbsp;</td><td style="vertical-align:top;">2003–</td><td>Beeidigte Dolmetscherin und ermächtigte Übersetzerin für die Berliner Gerichte und Notare</td>   
 <tr><td>&nbsp;</td><td>&nbsp;</td><td>Mitglied im <a href="https://literaturuebersetzer.de/">VdÜ</a></td></tr>
 <tr><td height=20> </td></tr>
+ </table>
