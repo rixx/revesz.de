@@ -6,7 +6,7 @@ layout: default
 
 <h1>LEBENSLAUF</h1>
 
-<table width=100% height=100% cellpadding=5 border=0>
+<table cellpadding=5 border=0>
 <tr><td>Ausbildung:</td><td>1989</td><td>Abitur in Berlin</td></tr>
 <tr><td> </td><td>1989-92</td><td>Ausbildung zur Ergotherapeutin in Berlin-Buch</td></tr>
 <tr><td> </td><td>1993-2001</td><td>Magisterstudium der Hungarologie und Klassischen Philologie (Altgriechisch) in Berlin</td></tr>
