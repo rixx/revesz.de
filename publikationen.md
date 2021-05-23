@@ -27,51 +27,70 @@ title: publikationen
 <p><span style="font-style:italic">Modern magyar novellák - Moderne ungarische Erzählungen.</span> <br>München : dtv, 1999 (Auswahl und Übersetzung)
 <p>
 
-<h3>Kurzgeschichten und Lyrik in Anthologien und Zeitschriften (Auswahl):</h3>
+<h3>Kurzgeschichten und Lyrik in Anthologien und Zeitschriften (Auswahl)</h3>
 <p>Bartis, Attila: Károly oder Die Geschichte der Literatur <br>— Engelhard oder Die Geschichte der Fotografie <br>in: <span style="font-style:italic;">Sinn und Form. </span> 2/2019
 <p>Szvoren, Edina: Der beste Henker im ganzen Land <br>
 Hidas, Judit: Tourist in Afrika <br>
   in: <span style="font-style:italic;">Die Horen. </span> Wallstein, 2016
-<p>Szvoren, Edina: Hundeschule. <br>In: <span style="font-style:italic;">Die Horen. </span> Wallstein, 2014
-<p>Szvoren, Edina: Herr A. und Fräulein A. <br>
-<p>Szvoren, Edina: Obendrauf kann man gehen. <br>
-  In: <span style="font-style:italic;">Sprache im technischen Zeitalter. </span> Wallstein, September 2014
-<p>Szvoren, Edina: Lieber guter Pa. <br>
-  In: <span style="font-style:italic;">Kleine Sprachen - große Literaturen. </span> Edition Kirchhof  Franke, 2012
-<p>Bódis, Kriszta: Es war gut. <br>
+<p>Szvoren, Edina: Hundeschule <br>
+  in: <span style="font-style:italic;">Die Horen. </span> Wallstein, 2014
+<p>Szvoren, Edina: Herr A. und Fräulein A <br>
+— Obendrauf kann man gehen. <br>
+  in: <span style="font-style:italic;">Sprache im technischen Zeitalter. </span> September 2014
+<p>Szvoren, Edina: Lieber guter Pa <br>
+  in: <span style="font-style:italic;">Kleine Sprachen - große Literaturen. </span> Edition Kirchhof  Franke, 2012
+<p>Bódis, Kriszta: Es war gut <br>
   Erdős, Virág: Und das?  <br>
-  — Eurydike. <br>
-  Kiss, Judit Ágnes: anfangs; Einbahn. <br>
-  Kiss, Noémi: Geschichte meiner Kurzsichtigkeit. <br>
-  Ladik, Katalin: Glasschwan im Vorzimmer. <br>
-  Lovas, Ildikó: Radgeschichten. <br>
-  Szabó T., Anna: Verlässt mich. <br>
-  In: <span style="font-style:italic;">Neue Frauen. Lesebuch</span>. CHB, 2009
-<p>Kiss, Noémi: Bukó. <br>
-  In: <span style="font-style:italic;">Akzente</span>. Hanser, 2006
-<p>Nádasdy, Ádám: Englischer Walzer. <br>
-  In: Linck, D. (Hrsg.): <span style="font-style:italic;">Sodom ist kein Vaterland</span>. Berlin : Querverlag, 2001.
-<p>Balla, Károly D.: Déjà vu. <br>
-  In: Dalos, Gy. (Hrsg.): <span style="font-style:italic;">Ungarn von Montag bis Freitag</span>. Franfurt a. M. : Suhrkamp, 1999
-<p>Balla, Károly D.: Hinter dem Licht hervor. <br>
-  Gion, Nándor: Nationalfarben. <br>
-  In: Rübberdt, I.; Schlosser, Ch. (Hrsg.): <span style="font-style:italic;">Die unsichtbaren Ungarn</span>. Klagenfurt : Wieser, 1999
+  — Eurydike <br>
+  Kiss, Judit Ágnes: anfangs <br>
+  — Einbahn <br>
+  Kiss, Noémi: Geschichte meiner Kurzsichtigkeit <br>
+  Ladik, Katalin: Glasschwan im Vorzimmer <br>
+  Lovas, Ildikó: Radgeschichten <br>
+  Szabó T., Anna: Verlässt mich <br>
+  in: <span style="font-style:italic;">Neue Frauen. Lesebuch</span>. CHB, 2009
+<p>Kiss, Noémi: Buko <br>
+  in: <span style="font-style:italic;">Akzente</span>. Hanser, 2006
+<p>Nádasdy, Ádám: Englischer Walzer <br>
+  in: Linck, D. (Hrsg.): <span style="font-style:italic;">Sodom ist kein Vaterland</span>. Berlin : Querverlag, 2001.
+<p>Balla, Károly D.: Déjà vu <br>
+  in: Dalos, Gy. (Hrsg.): <span style="font-style:italic;">Ungarn von Montag bis Freitag</span>. Franfurt a. M. : Suhrkamp, 1999
+<p>Balla, Károly D.: Hinter dem Licht hervor <br>
+  Gion, Nándor: Nationalfarben <br>
+  in: Rübberdt, I.; Schlosser, Ch. (Hrsg.): <span style="font-style:italic;">Die unsichtbaren Ungarn</span>. Klagenfurt : Wieser, 1999
 <p>
 
-<h3>Sachtexte (Auswahl):</h3>
-<li>Szirák, Péter: Ausgesprochen unausgesprochen. In: Lőrincz, Cs./ L. VARGA, P. (Hg.):<span style="font-style:italic;">Herausforderung der Literatur: Péter Esterházy</span>. Berlin : de Gruyter, 2021</li>
-<p><li>Kürti, Emese: UFO-Party. In: Altmann, S. et al. (Hg.):<span style="font-style:italic;">Medea muckt auf. Radikale Künstlerinnen hinter dem Eisernen Vorhang</span>. Köln : Walter König, 2019</li>
-<p><li>Tamáska, Máté: Ringstraßen im Vergleich. In: Hárs, E./Kókai, K./Orosz, M. (Hg.):<span style="font-style:italic;">Ringstraßen. Kulturwissenschaftliche Annäherungen an die Stadtarchitektur von Wien, Budapest und Szeged</span>. Wien : Praesens, 2017</li>
-<p><li>Fehér, István M.: Literaturgeschichte ohne Ästhetik? Zur Literaturtheorie-Auffassung des jungen Lukás. In: Lőrincz, Cs. (Hg.):<span style="font-style:italic;">Wissen - Vermittlung - Moderne. Studien zu den ungarischen Geistes- und Kulturwissenschaften um 1900</span>. München : Böhlau, 2016</li>
-<p><li>Simon, Attila: Cicero. In: Kulcsár-Szabó, Z.; Lőrincz, Cs. (Hg.):<span style="font-style:italic;">Signaturen des Geschehens. Ereignisse zwischen Öffentlichkeit und Latenz</span>. Bielefeld : Transcript, 2014</li>
-<p><li>Simon, Attila: Gorgonen und Sirenen. Repräsentation und Petrifikation in Lukians Lobrede auf einen schönen Saal. In: Lőrincz, Cs. (Hg.):<span style="font-style:italic;">Zwischen Pygmalion und Gorgo. Die Gegenwart des Bildes in der Sprache</span>. Berlin : Kadmos, 2013</li>
-<p><li>Balázs, Ferenc: Franz Davids Leben. In: Brandt, J.; Wien, U.A. (Hg.):<span style="font-style:italic;">Radikale Reformer: Die Unitarier in Siebenbürgen</span>. München : Böhlau, 2013</li>
-<p><li>Kulcsár Szabó, Ernõ: Der hermeneutische Koloss. In: Kelemen, P.; Kulcsár Szabó, E.; Tamás, Á. (Hg.):<span style="font-style:italic;">Kulturtechnik Philologie</span>. München : Winter, 2010</li>
-<p><li>Beke, László: Abstrakt – konstruktiv – konkret. In: <span style="font-style:italic;">Abstrakt – konstruktiv – konkret</span>. Ausstellungskatalog. Potsdam : Deutsches Kulturforum östliches Europa, 2006</li>
-<p><li>Kulcsár Szabó, Ernõ: Die Divergenz der sichtbaren Sprache. In: <span style="font-style:italic;">Plurale. Zeitschrift für Denkversionen</span>. 2/2003</li>
-<p><li><span style="font-style:italic;">VESZELSZKY</span>. Ausstellungskatalog. Budapest : Ministry of Cultural Heritage, 2003</li>
-<p><li>Majoros, Valéria: Leben und Werk. In: <span style="font-style:italic;">Mattis Teutsch und der blaue Reiter</span>. Ausstellungskatalog. München : Haus der Kunst, 2001</li>
-<p><li>Dobos, István: Umbrüche in der Literaturwissenschaft und -kritik. In: Kulcsár Szabó, E. (Hrsg.): <span style="font-style:italic;">Im Sog der Sprache</span>. Budapest, 1999</li>
-<p><li>Szirák, Péter: Wege der Prosa. In: KULCSÁR SZABÓ, E. (Hrsg.): <span style="font-style:italic;">Im Sog der Sprache</span>. Budapest, 1999</li>
-<p><li>Dobos, István: Der religiöse Horizont in den Romanen Péter Esterházys. In: Kulcsár Szabó, E.; Szegedy-Maszák, M. (Hrsg.): <span style="font-style:italic;">Epoche - Text - Modalität</span>. Tübingen : Niemeyer, 1999</li>
-<p><li>Szirák, Péter: Sprache, Erzählung, Phantasie. In: Kulcsár Szabó, E.; Szegedy-Maszák, M. (Hrsg.): <span style="font-style:italic;">Epoche - Text - Modalität</span>. Tübingen : Niemeyer, 1999</li>
+<h3>Sachtexte (Auswahl)</h3>
+<p>Bónus, Tibor: Die Kunst, Fliegen zu fangen: Textualität, Aleatorik und Redehaftigkeit (Zu einer Neulektüre des Produktionsromans)<br>
+  Kulcsár Szabó, Ernő: »Grazöse« Ungebundenheit<br>
+  Márton, László: Péter Esterházy – Werk und Wirkung <br>
+  Szirák, Péter: Ausgesprochen unausgesprochen <br>
+  in: Lőrincz, Cs./ L. Varga, P. (Hg.):<span style="font-style:italic;">Herausforderung der Literatur: Péter Esterházy</span>. Berlin : de Gruyter, 2021
+<p>Kürti, Emese: UFO-Party<br> 
+  in: Altmann, S. et al. (Hg.):<span style="font-style:italic;">Medea muckt auf. Radikale Künstlerinnen hinter dem Eisernen Vorhang</span>. Köln : Walter König, 2019
+<p>Tamáska, Máté: Ringstraßen im Vergleich <br>
+  in: Hárs, E./Kókai, K./Orosz, M. (Hg.):<span style="font-style:italic;">Ringstraßen. Kulturwissenschaftliche Annäherungen an die Stadtarchitektur von Wien, Budapest und Szeged</span>. Wien : Praesens, 2017
+<p>Fehér, István M.: Literaturgeschichte ohne Ästhetik? Zur Literaturtheorie-Auffassung des jungen Lukács <br>
+  in: Lőrincz, Cs. (Hg.):<span style="font-style:italic;">Wissen - Vermittlung - Moderne. Studien zu den ungarischen Geistes- und Kulturwissenschaften um 1900</span>. München : Böhlau, 2016
+<p>Simon, Attila: Cicero <br>
+  in: Kulcsár-Szabó, Z.; Lőrincz, Cs. (Hg.):<span style="font-style:italic;">Signaturen des Geschehens. Ereignisse zwischen Öffentlichkeit und Latenz</span>. Bielefeld : Transcript, 2014
+<p>Simon, Attila: Gorgonen und Sirenen. Repräsentation und Petrifikation in Lukians Lobrede auf einen schönen Saal <br>
+  in: Lőrincz, Cs. (Hg.):<span style="font-style:italic;">Zwischen Pygmalion und Gorgo. Die Gegenwart des Bildes in der Sprache</span>. Berlin : Kadmos, 2013
+<p>Balázs, Ferenc: Franz Davids Leben <br>
+  in: Brandt, J.; Wien, U.A. (Hg.):<span style="font-style:italic;">Radikale Reformer: Die Unitarier in Siebenbürgen</span>. München : Böhlau, 2013
+<p>Kulcsár Szabó, Ernő: Der hermeneutische Koloss <br>
+  in: Kelemen, P.; Kulcsár Szabó, E.; Tamás, Á. (Hg.):<span style="font-style:italic;">Kulturtechnik Philologie</span>. München : Winter, 2010
+<p>Beke, László: Abstrakt – konstruktiv – konkret <br>
+  in: <span style="font-style:italic;">Abstrakt – konstruktiv – konkret</span>. Ausstellungskatalog. Potsdam : Deutsches Kulturforum östliches Europa, 2006
+<p>Kulcsár Szabó, Ernő: Die Divergenz der sichtbaren Sprache <br>
+  in: <span style="font-style:italic;">Plurale. Zeitschrift für Denkversionen</span>. 2/2003
+<p><span style="font-style:italic;">VESZELSZKY</span>. Ausstellungskatalog <br>
+  Budapest : Ministry of Cultural Heritage, 2003
+<p>Majoros, Valéria: Leben und Werk <br>
+  in: <span style="font-style:italic;">Mattis Teutsch und der blaue Reiter</span>. Ausstellungskatalog. München : Haus der Kunst, 2001
+<p>Dobos, István: Umbrüche in der Literaturwissenschaft und -kritik<br>
+Szirák, Péter: Wege der Prosa <br>
+  in: Kulcsár Szabó, E. (Hg.): <span style="font-style:italic;">Im Sog der Sprache</span>. Budapest, 1999
+<p>Dobos, István: Der religiöse Horizont in den Romanen Péter Esterházys <br>
+Szirák, Péter: Sprache, Erzählung, Phantasie <br>
+  in: Kulcsár Szabó, E.; Szegedy-Maszák, M. (Hrsg.): <span style="font-style:italic;">Epoche - Text - Modalität</span>. Tübingen : Niemeyer, 1999
