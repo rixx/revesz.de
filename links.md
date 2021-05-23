@@ -45,7 +45,7 @@
 <hr>
 <a href="http://www.korpora.org/kant/verzeichnisse-gesamt.html" target="_blank">Kant (Akademieausgabe) </a><br>
 <a href="http://www.nietzschesource.org/" target="_blank">Nietzsche Digitale Kritische Gesamtausgabe </a><br>
-<a href="http://www.zeno.org/"target="_blank">Zeno.org </a>
+<a href="http://www.zeno.org/" target="blank">Zeno.org </a>
 <hr>
 <span style="font-weight:bold;">Ungarisch</span><br>
 <a href="http://www.mek.oszk.hu/katalog/index.phtml" target="_blank">Magyar Elektrónikus Könyvtár (Ungarische Literatur, teilw. Übersetzungen)</a><br>
