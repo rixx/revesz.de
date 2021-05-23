@@ -5,7 +5,7 @@ layout: default
 <h1>Leistungen</h1>
 
 <h2>Erfahrung</h2>
-Mit der beruflichen Tätigkeit als Übersetzerin habe ich parallel zu meinem Studium der Hungarologie und Klassischen Philosophie begonnen; schon am Anfang des Studiums war es mein Ziel zu übersetzen. <br>Seit 1996 übersetze ich Literatur und Fachtexte, letztere vor allem aus dem juristischen und dem geisteswissenschaftlichen Bereich, insbesondere Literaturwissenschaft, Philosophie und Kunstgeschichte.<br>&nbsp;
+Mit der beruflichen Tätigkeit als Übersetzerin habe ich parallel zu meinem Studium der Hungarologie und Klassischen Philologie begonnen; schon am Anfang des Studiums war es mein Ziel zu übersetzen. <br>Seit 1996 übersetze ich Literatur und Fachtexte, letztere vor allem aus dem juristischen und dem geisteswissenschaftlichen Bereich, insbesondere Literaturwissenschaft, Philosophie und Kunstgeschichte.<br>&nbsp;
 
 
 <h2>Leistungen</h2>
