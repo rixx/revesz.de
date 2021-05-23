@@ -29,15 +29,14 @@
 	  <li><a href="#lim">Sonstiges</a></li>
 	
 	
-		</ul></span>
+		</ul>
 </nav>
 
 
 <!-- Texte -->
 <a name="tex">
 <h2>Texte online</h2>
-<p>
-<span style="font-weight:bold;">Deutsch</span><br>
+<p><span style="font-weight:bold;">Deutsch</span><br>
 <a href="http://www.projekt-gutenberg.org" target="_blank">Projekt Gutenberg (Deutsch) </a><br>
 <a href="http://www.digbib.org/" target="_blank">Digitale Bibliothek (Sammlung gemeinfreier Literatur) </a><br>
 <a href="http://www.ingeb.org" target="_blank">Liedertexte, </a>insbesondere:<br>
@@ -64,8 +63,8 @@
 
 <!-- Bibliotheken -->
 <a name="bib">
-<h2 style="background-color:#a6a6a6; color:#ffffff;">Bücher und Bibliotheken <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a></h2>
-<p class="klein">
+<h2>Bücher und Bibliotheken</h2>
+<p>
 <span style="font-weight:bold;">Antiquarisches</span><br>
 <a href="http://www.eurobuch.com/" target="_blank">Eurobuch</a><br>
 <a href="http://antikvarium.hu/home.php" target="_blank">Használt könyvek </a><br>
@@ -93,7 +92,7 @@
 
 <!-- übersetzen -->
 <a name="ue">
-<h2 style="background-color:#a6a6a6; color:#ffffff;">Berufliches <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a></h2>
+<h2 >Berufliches <a href="#top"></h2>
 <p class="klein">
 <span style="font-weight:bold;">Übersetzer:</span><br>
 <a href="http://www.bdue.de/" target="_blank">BDÜ </a><br>
@@ -108,7 +107,7 @@
 
 <!-- WB -->
 <a name="wb">
-<h2 style="background-color:#a6a6a6; color:#ffffff;">Wörterbücher  <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a></h2>
+<h2>Wörterbücher  </h2>
 <p class="klein">
 
    <!-- Sammlungen -->
@@ -185,14 +184,14 @@
         <!-- Allgemeines -->
        <a name="allg">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Allgemein – Általános</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Allgemein – Általános</span><br>
 <a href="http://www.mek.iif.hu/porta/szint/egyeb/lexikon/pallas/html/index.html" target="_blank">Pallas Lexikon </a><br>
 <a href="http://mek.oszk.hu/06700/06758/pdf/" target="_blank">Révai Nagy Lexikona (bandweise als *.pdf) </a><br>
 
   <!-- architektur -->
        <a name="bau">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Architektur(geschichte) – Építészet(történet)</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Architektur(geschichte) – Építészet(történet)</span><br>
 <a href="http://www.uelze.de/stilkunde/" target="_blank">Stilkunde der Baukunst </a><br>
 <a href="https://www.uni-due.de/collcart/christ/kidu/glossar/glossar0.htm" target="_blank">Kirchenbau-Glossar</a><br>
 <a href="http://www.kirchbau.de/" target="_blank">Sakralarchitektur </a> <br>
@@ -203,7 +202,7 @@
         <!-- europa -->
        <a name="eur">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Europa</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Europa</span><br>
 <a href="http://eur-lex.europa.eu/de/index.htm" target="_blank"><span style="font-weight:bold">EUR-Lex</span> </a><br>
 <a href="http://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM&StrGroupCode=CONCEPTS&StrLanguageCode=EN" target="_blank">CODED – EUROSTAT-Konzepte und -Begriffe </a><br>
 <a href="http://ec.europa.eu/civiljustice/" target="_blank"> Eur. Justizielles Netz </a><br>
@@ -213,7 +212,7 @@
        <!-- Geographisches -->
        <a name="geo">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Geographisches – Földrajzi adatok</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Geographisches – Földrajzi adatok</span> <br>
 <a href="http://www.columbia.edu/acis/ets/Graesse/contents.html" target="_blank">Orbis Latinus </a><img src="Gomb.JPG">
 <a href="https://www.auswaertiges-amt.de/de/service/terminologie/-/215252" target="_blank">Liste der Staatennamen - Auswärtiges Amt </a><br>
 <p class="klein">
@@ -226,9 +225,7 @@
        <!-- kulturgeschichte -->
        <a name="kult">
        <p class="klein">
-     
-
-	 <span style="font-weight:bold; font-size:14pt;">Geschichte – Történelem</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Geschichte – Történelem</span> <br>
 <a href="https://mek.oszk.hu/00300/00355/html/index.html" target="_blank">Magyar Életrajzi lexikon 1000–1990 </a><br>
 <a href="http://mek.oszk.hu/02100/02115/html/" target="_blank">Magyar Néprajzi Lexikon </a><br>
 
@@ -236,9 +233,8 @@
        <!-- kunst -->
        <a name="kunst">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Kunst und Kunstgewerbe – Művészet és iparművészet</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
-       <span style="font-weight:bold;">Bildende Kunst – Képzőművészet:</span>
-<br>
+       <span style="font-weight:bold; font-size:14pt;">Kunst und Kunstgewerbe – Művészet és iparművészet</span><br>
+       <span style="font-weight:bold;">Bildende Kunst – Képzőművészet:</span><br>
 <a href="http://www.beyars.com/kunstlexikon/lexikon_a_1.html" target="_blank">Kunstlexikon (Hartmann) </a><br>
 <a href="http://www.bestandserhaltungsglossar.de/globe.html" target="_blank">Glossar zur Bestandserhaltung von Büchern </a><br>
 <a href="http://www.beyars.com/lexikon/lexikon_a.html" target="_blank">Schmucklexikon </a><br>
@@ -282,7 +278,7 @@
        <!-- lebensmittel / ernährung -->
        <a name="ern">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Lebensmittel – Élelmiszer</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Lebensmittel – Élelmiszer</span> <br>
 <a href="http://www.lebensmittellexikon.de" target="_blank">Lebensmittellexikon </a><br>
 <a href="http://www.ecowein.de/weinlexi.htm" target="_blank">Weinlexikon </a><br>
 <a href="http://www.holmagazin.hu/cikk/borasz-szotar---szakszavak-es-kifejezesek-beturendben-1" target="_blank">Borászat </a><br>
@@ -295,7 +291,7 @@
        <!-- politik -->
        <a name="pol">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;" target="_blank">Politik – Politika</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;" target="_blank">Politik – Politika</span><br>
 <a href="http://www.bundestag.de/dokumente/datenhandbuch/26/index.html" target="_blank">Abkürzungsverzeichnis des Bundestags </a><br>
 <a href="http://www.verfassungen.de/" target="_blank">Verfassungen der Welt in dt. Sprache</a><br>
 <a href="http://www.valasztas.hu/nep97/al/taral1.htm" target="_blank">Népszavazási szótár </a><!--img src="Gomb.JPG"-->
@@ -305,7 +301,7 @@
        <!-- recht -->
        <a name="jus">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Recht – Jog</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Recht – Jog</span> <br>
 <a href="https://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige" target="_blank">Deutsches Rechtswörterbuch </a><br>
 <a href="http://www.juristische-abkuerzungen.de/" target="_blank">Juristische Abkürzungen </a><br>
 <a href="http://www.umwelt-online.de/recht/" target="_blank">Umweltrecht </a><!--img src="Gomb.JPG"-->
@@ -317,7 +313,7 @@
        <!-- Religion -->
        <a name="rel">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Religion – Vallás</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Religion – Vallás</span><br>
 <span style="font-weight:bold;">Bibel – Biblia:</span><br>
 <a href="https://www.bibelwissenschaft.de/online-bibeln/novum-testamentum-graece-na-28/lesen-im-bibeltext/" target="_blank">Nestle/Aland (28. Aufl.) </a><br>
 <a href="https://www.biblegateway.com/" target="_blank">Bible Gateway </a><br>
@@ -342,7 +338,7 @@
        <!-- sport -->
        <a name="spo">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Sport</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Sport</span> <br>
 <a href="https://www.ycs.at/4/woerterbuch.htm" target="_blank">ABC der Seglersprache </a><br>
 <a href="https://www.shipstore.hu/vitorlas_szotar" target="_blank">Vitorlás szótár </a>
 
@@ -350,7 +346,7 @@
        <!-- Technik -->
        <a name="tec">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Technik</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Technik</span> <br>
 <a href="https://www.dictindustry.de/deutsch-ungarisch" target="_blank">Technik WB DE <> HU </a><br>
 <a href="https://www.kennzeichenking.de/kfz-kennzeichen-liste" target="_blank">Autokennzeichen </a><br>
 <a href="http://denizo.opia.dk/la.trezorejo/vortaroj.kaj.terminaroj/terminaroj/terminaro.fortakurenta.kvinlingva/terminaro.fortakurenta.kvinlingva.txt" target="_blank">Elektrotechnik in vier Sprachen </a><br>
@@ -364,7 +360,7 @@
        <!-- Typographie -->
        <a name="typ">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Typographie, Drucken und Publizieren</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Typographie, Drucken und Publizieren</span><br>
 <a href="http://www.bibliotheks-glossar.de/" target="_blank">Bibliotheksglossar </a><br>
 <a href="http://www.textkritik.de/druckersprache/index.htm" target="_blank">Klenz: Die deutsche Druckersprache </a><br>
 <a href="http://papiergeschichte.freyerweb.at/" target="_blank">Papiergeschichte </a><br>
@@ -376,7 +372,7 @@
        <!-- umwelt -->
        <a name="env">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Umwelt – Környezet</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Umwelt – Környezet</span> <br>
 <a href="http://www.informatika.bf.uni-lj.si/magus-baltic&ural-altaic.html" target="_blank">Tierglossar in 53 Sprachen </a><br>
 <a href="http://www.umweltlexikon-online.de/fp/archiv/RUBhome/index.php" target="_blank">Umweltlexikon mit ausf. Erkl. </a><br>
 <a href="http://www.umwelt-online.de/recht/" target="_blank">Umweltrecht </a><br>
@@ -387,7 +383,7 @@
        <!-- Wirtschaft -->
        <a name="gaz">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Wirtschaft – Gazdaság</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Wirtschaft – Gazdaság</span> <br>
 <a href="http://www.boersenlexikon.de/" target="_blank">Börsenlexikon (faz.net) </a><br>
 <a href="https://www.top-versicherungslexikon.de/" target="_blank">Versicherungen </a><br>
 <a href="http://www.oanda.com/convert/classic" target="_blank">Währungskonverter </a><br>
@@ -398,7 +394,7 @@
        <!-- Sonstiges -->
        <a name="lim">
        <p class="klein">
-       <span style="font-weight:bold; font-size:14pt;">Sonstiges – Limlom</span> <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a><br>
+       <span style="font-weight:bold; font-size:14pt;">Sonstiges – Limlom</span> <a href="#top"><br>
 <a href="http://www.slogans.de/" target="_blank">Datenbank der Werbeslogans </a><br>
 <a href="http://www.mathe-online.at/mathint/lexikon/" target="_blank">Mathematisches Lexikon </a><br>
 <a href="http://www.mineralienatlas.de/lexikon/index.php/Kategorie" target="_blank">Mineralienatlas </a><br>
