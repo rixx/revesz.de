@@ -6,9 +6,9 @@ title: publikationen
 <h1>Übersetzungen</h1>
 
 <h3>Selbständige Bände</h3>
-<li type="square">Berkovits, György: <span style="font-style:italic">Die hundertjährige Tänzerin.</span> [A százéves táncosnő] München : Schenk, erscheint demnächst</li>
-<li type="square">Papp, Sándor Zsigmond: <span style="font-style:italic">Der süße Betrug des Lebens.</span> [Semmi kis életek] München : Heyne, 2019</li>
-<li type="square">Berg, Judit: <span style="font-style:italic">Rumini.</span> [Rumini] Create Space Independent Publishing, 2016</li>
+<li type="square">Berkovits, György: <span style="font-style:italic">Die hundertjährige Tänzerin.</span> [A százéves táncosnő] <br>München : Schenk, erscheint demnächst</li><p>
+<li>Papp, Sándor Zsigmond: <span style="font-style:italic">Der süße Betrug des Lebens.</span> [Semmi kis életek] <br>München : Heyne, 2019</li><p>
+<li>Berg, Judit: <span style="font-style:italic">Rumini.</span> [Rumini] <br>Create Space Independent Publishing, 2016</li><p>
 <li type="square">Márai, Sándor: <span style="font-style:italic">Die Eifersüchtigen.</span> [Féltékenyek] München : Piper, 2015</li>
 <li type="square">Márai, Sándor: <span style="font-style:italic">Die Frauen von Ithaka.</span> [Béke Ithakában] München : Piper, 2013</li>
 <li type="square">Nemes Nagy, Ágnes: <span style="font-style:italic">Hasenmamas Osterfest.</span> [Nyúlanyó húsvétja] Leipzig : Leiv, 2013</li>
