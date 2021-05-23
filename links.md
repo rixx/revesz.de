@@ -1,7 +1,7 @@
 <body>
     <main>
 	
-	<nav><span-style="flex-direktion:column;">
+	<nav>
    <ul>
       <h3><a href="#tex">Texte online</a></h3></p>
 	  <h3><a href="#bib">Bücher & Bibliotheken</a></h3>
@@ -35,7 +35,7 @@
 
 <!-- Texte -->
 <a name="tex">
-<h2 style="background-color:#a6a6a6; color:#ffffff;">Texte online  <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a></h2>
+<h2>Texte online</a></h2>
 <p class="klein">
 <span style="font-weight:bold;">Deutsch</span><br>
 <a href="http://www.projekt-gutenberg.org" target="_blank">Projekt Gutenberg (Deutsch) </a><br>
