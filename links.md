@@ -1,7 +1,7 @@
 <body>
     <main>
 	
-	<nav>
+	<nav><span-style="flex-direktion:column;">
    <ul>
       <h3><a href="#tex">Texte online</a></h3></p>
 	  <h3><a href="#bib">Bücher & Bibliotheken</a></h3>
@@ -29,7 +29,7 @@
 	  <li><a href="#lim">Sonstiges</a></li>
 	
 	
-  </ul>
+		</ul></span>
 </nav>
 
 
