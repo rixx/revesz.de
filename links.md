@@ -35,8 +35,8 @@
 
 <!-- Texte -->
 <a name="tex">
-<h2>Texte online</a></h2>
-<p class="klein">
+<h2>Texte online</h2>
+<p>
 <span style="font-weight:bold;">Deutsch</span><br>
 <a href="http://www.projekt-gutenberg.org" target="_blank">Projekt Gutenberg (Deutsch) </a><br>
 <a href="http://www.digbib.org/" target="_blank">Digitale Bibliothek (Sammlung gemeinfreier Literatur) </a><br>
