@@ -1,9 +1,8 @@
 <body>
-    <main>
-	
+    	
 	<nav>
-   <ul>
-      <h3><a href="#tex">Texte online</a></h3></p>
+        <ul>
+          <h3><a href="#tex">Texte online</a></h3>
 	  <h3><a href="#bib">Bücher & Bibliotheken</a></h3>
 	  <h3><a href="#ue">Berufliches</a></h3>
 	  <h3>Wörterbücher</h3>
@@ -27,10 +26,11 @@
 	  <li><a href="#env">Umwelt</a></li>
 	  <li><a href="#gaz">Wirtschaft</a></li>
 	  <li><a href="#lim">Sonstiges</a></li>
-	
-	
-		</ul>
-</nav>
+	</ul>
+	</nav>
+
+<main>
+
 
 
 <!-- Texte -->
@@ -92,15 +92,15 @@
 
 <!-- übersetzen -->
 <a name="ue">
-<h2 >Berufliches <a href="#top"></h2>
-<p class="klein">
+<h2 >Berufliches</h2>
+<p>
 <span style="font-weight:bold;">Übersetzer:</span><br>
 <a href="http://www.bdue.de/" target="_blank">BDÜ </a><br>
 <a href="http://www.literaturuebersetzer.de/" target="_blank">VdÜ – Verband deutschsprachiger Übersetzer/innen literarischer und wissenschaftlicher Werke </a><br>
 <hr>
 <p class="klein">
 <span style="font-weight:bold;">Freiberufler:</span><br>
-<a href="http://www.mediafon.de/" target="_blank">Mediafon </a>
+<a href="http://www.mediafon.de/" target="_blank">Mediafon</a>
 
 
 
@@ -137,9 +137,9 @@
 
    <!-- Einsprachige Wörterbücher -->
    <a name="egy">
-   <p class="klein">
+   <p>
    <span style="font-weight:bold;">Einsprachige Wörterbücher – Egynyelvű szótárak:</span><br>
-   <p class="klein">Deutsch<br>
+   <p>Deutsch<br>
 <a href="http://awb.saw-leipzig.de/cgi/WBNetz/wbgui_py?sigle=AWB" target="_blank">Althochdeutsches Wörterbuch </a><br>
 <a href="https://fwb-online.de/" target="_blank">Frühneuhochdeutsches Wörterbuch </a> <br>
 <a href="http://www.zeno.org/Adelung-1793" target="_blank">Adelung - Grammatisch-kritisches Wörterbuch der hochdeutschen Mundart (1793) </a><br>
@@ -174,8 +174,8 @@
 
 <!-- Nachschlagewerke -->
 <a name="nach">
-<h2 style="background-color:#a6a6a6; color:#ffffff;">Zum Nachschlagen: Lexika, Glossare etc. – Lexikonok, szószedetek stb. <a href="#top"><img src="nyilfel.gif" border=0 alt="nach oben"></a></h2>
-<p class="klein">
+<h2>Zum Nachschlagen: Lexika, Glossare etc. – Lexikonok, szószedetek stb. </h2>
+<p>
 
 <!-- Sammlungen -->
 
