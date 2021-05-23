@@ -28,6 +28,9 @@ title: publikationen
 <p>
 
 <h3>Kurzgeschichten und Lyrik in Anthologien und Zeitschriften (Auswahl)</h3>
+<p>Tolnai, Ottó:<haref="https://www.signaturen-magazin.de/otto-tolnai--doreen-2--statt-einer-ars-poetica-.html">Doreen II. Statt einer ars poetica</a><br>
+  — <a href="https://www.signaturen-magazin.de/otto-tolnai--drei-re-kapitulationen.html">Drei Re-Kapitulationen</a><br>
+  
 <p>Bartis, Attila: Károly oder Die Geschichte der Literatur <br>— Engelhard oder Die Geschichte der Fotografie <br>in: <span style="font-style:italic;">Sinn und Form. </span> 2/2019
 <p>Szvoren, Edina: Der beste Henker im ganzen Land <br>
 Hidas, Judit: Tourist in Afrika <br>
