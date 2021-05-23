@@ -1,6 +1,6 @@
 <body>
     	
-	<nav>
+	<!-- <nav>
         <ul>
           <h3><a href="#tex">Texte online</a></h3>
 	  <h3><a href="#bib">Bücher & Bibliotheken</a></h3>
@@ -27,7 +27,7 @@
 	  <li><a href="#gaz">Wirtschaft</a></li>
 	  <li><a href="#lim">Sonstiges</a></li>
 	</ul>
-	</nav>
+	</nav> -->
 
 <main>
 
