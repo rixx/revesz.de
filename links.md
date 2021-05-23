@@ -1,6 +1,6 @@
 <body>
     	
-	<!-- <nav>
+	<nav>
         <ul>
           <h3><a href="#tex">Texte online</a></h3>
 	  <h3><a href="#bib">Bücher & Bibliotheken</a></h3>
@@ -27,7 +27,7 @@
 	  <li><a href="#gaz">Wirtschaft</a></li>
 	  <li><a href="#lim">Sonstiges</a></li>
 	</ul>
-	</nav> -->
+	</nav> 
 
 <main>
 
@@ -213,7 +213,7 @@
        <a name="geo">
        <p class="klein">
        <span style="font-weight:bold; font-size:14pt;">Geographisches – Földrajzi adatok</span> <br>
-<a href="http://www.columbia.edu/acis/ets/Graesse/contents.html" target="_blank">Orbis Latinus </a><img src="Gomb.JPG">
+<a href="http://www.columbia.edu/acis/ets/Graesse/contents.html" target="_blank">Orbis Latinus </a><br>
 <a href="https://www.auswaertiges-amt.de/de/service/terminologie/-/215252" target="_blank">Liste der Staatennamen - Auswärtiges Amt </a><br>
 <p class="klein">
 <a href="http://mek.oszk.hu/00000/00070/html/fra-geo.htm" target="_blank">Földrajzi nevek magyarul</a><br>
@@ -352,7 +352,7 @@
 <a href="http://denizo.opia.dk/la.trezorejo/vortaroj.kaj.terminaroj/terminaroj/terminaro.fortakurenta.kvinlingva/terminaro.fortakurenta.kvinlingva.txt" target="_blank">Elektrotechnik in vier Sprachen </a><br>
 <a href="http://www.oose.de/oep/desc/glo-all.htm" target="_blank">Glossare: Wirtschaft, Computer  Engineering </a><br>
 <a href="http://www.szabilinux.hu/seclex/lexikon.htm" target="_blank">Security lexikon </a><br>
-<a href="http://www.zeno.org/Lueger-1904"target="_blank">Lexikon der gesamten Technik (1898)</a><br>
+<a href="http://www.zeno.org/Lueger-1904" target="_blank">Lexikon der gesamten Technik (1898)</a><br>
 <a href="https://de.scribd.com/document/414170256/Magyar-nemet-m%C5%B1szaki-nagyszotar-pdf" target="_blank">Műszaki Nagyszótár (pdf) </a><br>
 <a href="https://www.muszeroldal.hu/assistance/tavkrov.pdf" target="_blank">Távközlési rövidítések </a><br>
 
