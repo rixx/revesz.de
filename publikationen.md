@@ -6,7 +6,7 @@ title: publikationen
 <h1>Übersetzungen</h1>
 
 <h3>Bücher</h3>
-Berkovits, György: <span style="font-style:italic">Die hundertjährige Tänzerin.</span> [A százéves táncosnő] <br>München : Schenk, erscheint demnächst
+<p>Berkovits, György: <span style="font-style:italic">Die hundertjährige Tänzerin.</span> [A százéves táncosnő] <br>München : Schenk, erscheint demnächst
 <p>Papp, Sándor Zsigmond: <span style="font-style:italic">Der süße Betrug des Lebens.</span> [Semmi kis életek] <br>München : Heyne, 2019
 <p>Berg, Judit: <span style="font-style:italic">Rumini.</span> [Rumini] <br>Create Space Independent Publishing, 2016
 <p>Márai, Sándor: <span style="font-style:italic">Die Eifersüchtigen.</span> [Féltékenyek] <br>München : Piper, 2015
@@ -28,26 +28,34 @@ Berkovits, György: <span style="font-style:italic">Die hundertjährige Tänzeri
 <p>
 
 <h3>Kurzgeschichten und Lyrik in Anthologien und Zeitschriften (Auswahl):</h3>
-Bartis, Attila: Károly oder Die Geschichte der Literatur; <br>— Engelhard oder Die Geschichte der Fotografie. <br>In: <span style="font-style:italic;">Sinn und Form. </span> 2019
-<p>Szvoren, Edina: Der beste Henker im ganzen Land. <br>
-Hidas, Judit: Tourist in Afrika. <br>In: <span style="font-style:italic;">Die Horen. </span> Wallstein, 2016
-<p><li>Szvoren, Edina: Hundeschule. <br>In: <span style="font-style:italic;">Die Horen. </span> Wallstein, 2014</li>
-<p><li>Szvoren, Edina: Herr A. und Fräulein A. <br>In: <span style="font-style:italic;">Sprache im technischen Zeitalter. </span> Wallstein, 2014</li>
-<p><li>Szvoren, Edina: Obendrauf kann man gehen. <br>In: <span style="font-style:italic;">Sprache im technischen Zeitalter. </span> Wallstein, 2014</li>
-<p><li>Szvoren, Edina: Lieber guter Pa. <br>In: <span style="font-style:italic;">Kleine Sprachen - große Literaturen. </span> Edition Kirchhof  Franke, 2012</li>
-<p><li>Bódis, Kriszta: Es war gut. <br>In: <span style="font-style:italic;">Neue Frauen. Lesebuch</span>. CHB, 2009</li>
-<p><li>KISS, Judit Ágnes: anfangs; Einbahn. In: <span style="font-style:italic;">Neue Frauen. Lesebuch</span>. CHB, 2009</li>
-<p><li>Szabó T., Anna: Verlässt mich. In: <span style="font-style:italic;">Neue Frauen. Lesebuch</span>. CHB, 2009</li>
-<p><li>Ladik, Katalin: Glasschwan im Vorzimmer. In: <span style="font-style:italic;">Neue Frauen. Lesebuch</span>. CHB, 2009</li>
-<p><li>Erdős, Virág: Und das?; Eurydike. In: <span style="font-style:italic;">Neue Frauen. Lesebuch</span>. CHB, 2009</li>
-<p><li>Bódis, Kriszta: Es war gut. In: <span style="font-style:italic;">Neue Frauen. Lesebuch</span>. CHB, 2009</li>
-<p><li>Kiss, Noémi: Geschichte meiner Kurzsichtigkeit. In: <span style="font-style:italic;">Neue Frauen. Lesebuch</span>. CHB, 2009</li>
-<p><li>Lovas, Ildikó: Radgeschichten. In: <span style="font-style:italic;">Neue Frauen. Lesebuch</span>. CHB, 2009</li>
-<p><li>Kiss, Noémi: Bukó. In: <span style="font-style:italic;">Akzente</span>. Hanser, 2006</li>
-<p><li>Nádasdy, Ádám: Englischer Walzer. In: Linck, D. (Hrsg.): <span style="font-style:italic;">Sodom ist kein Vaterland</span>. Berlin : Querverlag, 2001.</li>
-<p><li>Balla, Károly D.: Déjà vu. In: Dalos, Gy. (Hrsg.): <span style="font-style:italic;">Ungarn von Montag bis Freitag</span>. Franfurt a. M. : Suhrkamp, 1999</li>
-<p><li>Balla, Károly D.: Hinter dem Licht hervor. In: Rübberdt, I.; Schlosser, Ch. (Hrsg.): <span style="font-style:italic;">Die unsichtbaren Ungarn</span>. Klagenfurt : Wieser, 1999</li>
-<p><li>Gion, Nándor: Nationalfarben. In: Rübberdt, I.; Schlosser, Ch. (Hrsg.): <span style="font-style:italic;">Die unsichtbaren Ungarn</span>. Klagenfurt : Wieser, 1999</li>
+<p>Bartis, Attila: Károly oder Die Geschichte der Literatur <br>— Engelhard oder Die Geschichte der Fotografie <br>in: <span style="font-style:italic;">Sinn und Form. </span> 2/2019
+<p>Szvoren, Edina: Der beste Henker im ganzen Land <br>
+Hidas, Judit: Tourist in Afrika <br>
+  in: <span style="font-style:italic;">Die Horen. </span> Wallstein, 2016
+<p>Szvoren, Edina: Hundeschule. <br>In: <span style="font-style:italic;">Die Horen. </span> Wallstein, 2014
+<p>Szvoren, Edina: Herr A. und Fräulein A. <br>
+<p>Szvoren, Edina: Obendrauf kann man gehen. <br>
+  In: <span style="font-style:italic;">Sprache im technischen Zeitalter. </span> Wallstein, September 2014
+<p>Szvoren, Edina: Lieber guter Pa. <br>
+  In: <span style="font-style:italic;">Kleine Sprachen - große Literaturen. </span> Edition Kirchhof  Franke, 2012
+<p>Bódis, Kriszta: Es war gut. <br>
+  Erdős, Virág: Und das?  <br>
+  — Eurydike. <br>
+  Kiss, Judit Ágnes: anfangs; Einbahn. <br>
+  Kiss, Noémi: Geschichte meiner Kurzsichtigkeit. <br>
+  Ladik, Katalin: Glasschwan im Vorzimmer. <br>
+  Lovas, Ildikó: Radgeschichten. <br>
+  Szabó T., Anna: Verlässt mich. <br>
+  In: <span style="font-style:italic;">Neue Frauen. Lesebuch</span>. CHB, 2009
+<p>Kiss, Noémi: Bukó. <br>
+  In: <span style="font-style:italic;">Akzente</span>. Hanser, 2006
+<p>Nádasdy, Ádám: Englischer Walzer. <br>
+  In: Linck, D. (Hrsg.): <span style="font-style:italic;">Sodom ist kein Vaterland</span>. Berlin : Querverlag, 2001.
+<p>Balla, Károly D.: Déjà vu. <br>
+  In: Dalos, Gy. (Hrsg.): <span style="font-style:italic;">Ungarn von Montag bis Freitag</span>. Franfurt a. M. : Suhrkamp, 1999
+<p>Balla, Károly D.: Hinter dem Licht hervor. <br>
+  Gion, Nándor: Nationalfarben. <br>
+  In: Rübberdt, I.; Schlosser, Ch. (Hrsg.): <span style="font-style:italic;">Die unsichtbaren Ungarn</span>. Klagenfurt : Wieser, 1999
 <p>
 
 <h3>Sachtexte (Auswahl):</h3>
