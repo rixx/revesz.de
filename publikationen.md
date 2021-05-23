@@ -73,7 +73,7 @@ Hidas, Judit: Tourist in Afrika <br>
   in: Altmann, S. et al. (Hg.):<span style="font-style:italic;">Medea muckt auf. Radikale Künstlerinnen hinter dem Eisernen Vorhang</span>. Köln : Walter König, 2019
 <p>Tamáska, Máté: Ringstraßen im Vergleich <br>
   in: Hárs, E./Kókai, K./Orosz, M. (Hg.):<span style="font-style:italic;">Ringstraßen. Kulturwissenschaftliche Annäherungen an die Stadtarchitektur von Wien, Budapest und Szeged</span>. Wien : Praesens, 2017
-<p>Fehér, István M.: Literaturgeschichte ohne Ästhetik? Zur Literaturtheorie-Auffassung des jungen Lukács <br>
+<p>Fehér, István M.: <a href="https://doi.org/10.7788/9783412218980-009">Literaturgeschichte ohne Ästhetik? Zur Literaturtheorie-Auffassung des jungen Lukács </a><br>
   in: Lőrincz, Cs. (Hg.):<span style="font-style:italic;">Wissen - Vermittlung - Moderne. Studien zu den ungarischen Geistes- und Kulturwissenschaften um 1900</span>. München : Böhlau, 2016
 <p>Simon, Attila: Cicero <br>
   in: Kulcsár-Szabó, Z.; Lőrincz, Cs. (Hg.):<span style="font-style:italic;">Signaturen des Geschehens. Ereignisse zwischen Öffentlichkeit und Latenz</span>. Bielefeld : Transcript, 2014
