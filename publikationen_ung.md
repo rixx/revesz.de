@@ -3,7 +3,7 @@ layout: default
 title: publikationen
 ---
 
-<h1>Übersetzungen</h1>
+<h1>Fordítások</h1>
 
 <h3>Bücher</h3>
 <p>Berkovits György: <span style="font-style:italic">Die hundertjährige Tänzerin.</span> [A százéves táncosnő] <br>München : Schenk, erscheint demnächst
@@ -27,7 +27,7 @@ title: publikationen
 <p><span style="font-style:italic">Modern magyar novellák - Moderne ungarische Erzählungen.</span> <br>München : dtv, 1999 (Auswahl und Übersetzung)
 <p>
 
-<h3>Kurzgeschichten und Lyrik in Anthologien und Zeitschriften (Auswahl)</h3>
+<h3>Novellák és versek antológiákban és folyóiratokban (válogatás)</h3>
 <p>Tolnai Ottó:<a href="https://www.signaturen-magazin.de/otto-tolnai--doreen-2--statt-einer-ars-poetica-.html">Doreen II. Statt einer ars poetica [Doreen II. Ars poetica helyett]</a><br>
   — <a href="https://www.signaturen-magazin.de/otto-tolnai--drei-re-kapitulationen.html">Drei Re-Kapitulationen [Három re-kapituláció]</a><br>
   
@@ -63,7 +63,7 @@ Hidas, Judit: Tourist in Afrika [Turista Afrikában]<br>
   in: Rübberdt, I.; Schlosser, Ch. (Hrsg.): <span style="font-style:italic;">Die unsichtbaren Ungarn</span>. Klagenfurt : Wieser, 1999
 <p>
 
-<h3>Sachtexte (Auswahl)</h3>
+<h3>Ismeretterjesztő szövegek (válogatás)</h3>
 <p>Bónus, Tibor: Die Kunst, Fliegen zu fangen: Textualität, Aleatorik und Redehaftigkeit (Zu einer Neulektüre des Produktionsromans)<br>
   Kulcsár Szabó, Ernő: »Grazöse« Ungebundenheit<br>
   Márton, László: Péter Esterházy – Werk und Wirkung <br>
