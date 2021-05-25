@@ -28,7 +28,7 @@ title: publikationen
 <p>
 
 <h3>Novellák és versek antológiákban és folyóiratokban (válogatás)</h3>
-<p>Tolnai Ottó:<a href="https://www.signaturen-magazin.de/otto-tolnai--doreen-2--statt-einer-ars-poetica-.html">Doreen II. Statt einer ars poetica [Doreen II. Ars poetica helyett]</a><br>
+<p>Tolnai Ottó: <a href="https://www.signaturen-magazin.de/otto-tolnai--doreen-2--statt-einer-ars-poetica-.html">Doreen II. Statt einer ars poetica [Doreen II. Ars poetica helyett]</a><br>
   — <a href="https://www.signaturen-magazin.de/otto-tolnai--drei-re-kapitulationen.html">Drei Re-Kapitulationen [Három re-kapituláció]</a><br>
   
 <p>Bartis, Attila: Károly oder Die Geschichte der Literatur [Károly avagy Az irodalom története]<br>— Engelhard oder Die Geschichte der Fotografie [Engelhard avagy A fotográfia története] <br>in: <span style="font-style:italic;">Sinn und Form. </span> 2/2019
