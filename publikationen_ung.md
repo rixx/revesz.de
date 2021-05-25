@@ -6,60 +6,60 @@ title: publikationen
 <h1>Übersetzungen</h1>
 
 <h3>Bücher</h3>
-<p>Berkovits, György: <span style="font-style:italic">Die hundertjährige Tänzerin.</span> [A százéves táncosnő] <br>München : Schenk, erscheint demnächst
-<p>Papp, Sándor Zsigmond: <span style="font-style:italic">Der süße Betrug des Lebens.</span> [Semmi kis életek] <br>München : Heyne, 2019
-<p>Berg, Judit: <span style="font-style:italic">Rumini.</span> [Rumini] <br>Create Space Independent Publishing, 2016
-<p>Márai, Sándor: <span style="font-style:italic">Die Eifersüchtigen.</span> [Féltékenyek] <br>München : Piper, 2015
-<p>Márai, Sándor: <span style="font-style:italic">Die Frauen von Ithaka.</span> [Béke Ithakában] <br>München : Piper, 2013
-<p>Nemes Nagy, Ágnes: <span style="font-style:italic">Hasenmamas Osterfest.</span> [Nyúlanyó húsvétja] <br>Leipzig : Leiv, 2013
-<p>Gazdag, Erzsi: <span style="font-style:italic">Der Sommer ist da.</span> [Itt a nyár] <br>Leipzig : Leiv, 2013
-<p>Zelk, Zoltán: <span style="font-style:italic">Die drei Hasen.</span> [A három nyúl] <br>Leipzig : Leiv, 2013
-<p>Mosonyi, Aliz: <span style="font-style:italic">Der Radieschenkönig.</span> [Retekorrú király] <br>Leipzig : Leiv, 2013
-<p>Márai, Sándor: <span style="font-style:italic">Die Schwester.</span> [A növér] <br>München : Piper, 2011
-<p>Márai, Sándor: <span style="font-style:italic">Befreiung.</span> [Szabadulás] <br>München : Piper, 2010
-<p>Bódis, Kriszta: <span style="font-style:italic">Artista.</span> <br>Dresden : Voland  Quist, 2009.
-<p>Lovas, Ildikó: <span style="font-style:italic">Zugang zur Adria. James Bond in der Batschka.</span> [Kijárat az Adriára. James Bond Bácskában ] <br>Budapest : Balassi Bálint Intézet, 2008
-<p>Márai, Sándor: <span style="font-style:italic">Die Möwe.</span> [Sirály] <br>München : Piper, 2008
-<p>Molnár, Ákos: <span style="font-style:italic">Zwölf Schritte.</span> [Tizenkét lépés] <br>München : Piper, 2007
-<p>Hász, Róbert: <span style="font-style:italic">Bis in alle Ewigkeit.</span> [Végvár] <br>München : Klett-Cotta, 2006
+<p>Berkovits György: <span style="font-style:italic">Die hundertjährige Tänzerin.</span> [A százéves táncosnő] <br>München : Schenk, erscheint demnächst
+<p>Papp Sándor Zsigmond: <span style="font-style:italic">Der süße Betrug des Lebens.</span> [Semmi kis életek] <br>München : Heyne, 2019
+<p>Berg Judit: <span style="font-style:italic">Rumini.</span> [Rumini] <br>Create Space Independent Publishing, 2016
+<p>Márai Sándor: <span style="font-style:italic">Die Eifersüchtigen.</span> [Féltékenyek] <br>München : Piper, 2015
+<p>Márai Sándor: <span style="font-style:italic">Die Frauen von Ithaka.</span> [Béke Ithakában] <br>München : Piper, 2013
+<p>Nemes Nagy Ágnes: <span style="font-style:italic">Hasenmamas Osterfest.</span> [Nyúlanyó húsvétja] <br>Leipzig : Leiv, 2013
+<p>Gazdag Erzsi: <span style="font-style:italic">Der Sommer ist da.</span> [Itt a nyár] <br>Leipzig : Leiv, 2013
+<p>Zelk Zoltán: <span style="font-style:italic">Die drei Hasen.</span> [A három nyúl] <br>Leipzig : Leiv, 2013
+<p>Mosonyi Aliz: <span style="font-style:italic">Der Radieschenkönig.</span> [Retekorrú király] <br>Leipzig : Leiv, 2013
+<p>Márai Sándor: <span style="font-style:italic">Die Schwester.</span> [A növér] <br>München : Piper, 2011
+<p>Márai Sándor: <span style="font-style:italic">Befreiung.</span> [Szabadulás] <br>München : Piper, 2010
+<p>Bódis Kriszta: <span style="font-style:italic">Artista.</span> <br>Dresden : Voland  Quist, 2009.
+<p>Lovas Ildikó: <span style="font-style:italic">Zugang zur Adria. James Bond in der Batschka.</span> [Kijárat az Adriára. James Bond Bácskában ] <br>Budapest : Balassi Bálint Intézet, 2008
+<p>Márai Sándor: <span style="font-style:italic">Die Möwe.</span> [Sirály] <br>München : Piper, 2008
+<p>Molnár Ákos: <span style="font-style:italic">Zwölf Schritte.</span> [Tizenkét lépés] <br>München : Piper, 2007
+<p>Hász Róbert: <span style="font-style:italic">Bis in alle Ewigkeit.</span> [Végvár] <br>München : Klett-Cotta, 2006
 <p>Heller, Ágnes: <span style="font-style:italic">Die Auferstehung des jüdischen Jesus.</span> [A zsidó Jézus feltámadása] <br>Berlin : Philo, 2002
-<p>Bozai, Agóta: <span style="font-style:italic">Irren ist göttlich.</span> [Tranzit glória] <br>Wien : Kremayr  Scheriau, 2001
+<p>Bozai Agóta: <span style="font-style:italic">Irren ist göttlich.</span> [Tranzit glória] <br>Wien : Kremayr  Scheriau, 2001
 <p><span style="font-style:italic">Modern magyar novellák - Moderne ungarische Erzählungen.</span> <br>München : dtv, 1999 (Auswahl und Übersetzung)
 <p>
 
 <h3>Kurzgeschichten und Lyrik in Anthologien und Zeitschriften (Auswahl)</h3>
-<p>Tolnai, Ottó:<haref="https://www.signaturen-magazin.de/otto-tolnai--doreen-2--statt-einer-ars-poetica-.html">Doreen II. Statt einer ars poetica</a><br>
-  — <a href="https://www.signaturen-magazin.de/otto-tolnai--drei-re-kapitulationen.html">Drei Re-Kapitulationen</a><br>
+<p>Tolnai Ottó:<a href="https://www.signaturen-magazin.de/otto-tolnai--doreen-2--statt-einer-ars-poetica-.html">Doreen II. Statt einer ars poetica [Doreen II. Ars poetica helyett]</a><br>
+  — <a href="https://www.signaturen-magazin.de/otto-tolnai--drei-re-kapitulationen.html">Drei Re-Kapitulationen [Három re-kapituláció]</a><br>
   
-<p>Bartis, Attila: Károly oder Die Geschichte der Literatur <br>— Engelhard oder Die Geschichte der Fotografie <br>in: <span style="font-style:italic;">Sinn und Form. </span> 2/2019
-<p>Szvoren, Edina: Der beste Henker im ganzen Land <br>
-Hidas, Judit: Tourist in Afrika <br>
+<p>Bartis, Attila: Károly oder Die Geschichte der Literatur [Károly avagy Az irodalom története]<br>— Engelhard oder Die Geschichte der Fotografie [Engelhard avagy A fotográfia története] <br>in: <span style="font-style:italic;">Sinn und Form. </span> 2/2019
+<p>Szvoren, Edina: Der beste Henker im ganzen Land [Az ország legjobb hóhéra]<br>
+Hidas, Judit: Tourist in Afrika [Turista Afrikában]<br>
   in: <span style="font-style:italic;">Die Horen. </span> Wallstein, 2016
 <p>Szvoren, Edina: Hundeschule <br>
   in: <span style="font-style:italic;">Die Horen. </span> Wallstein, 2014
-<p>Szvoren, Edina: Herr A. und Fräulein A <br>
-— Obendrauf kann man gehen. <br>
+<p>Szvoren, Edina: Herr A. und Fräulein A. [A. úr és A. kisasszony]<br>
+— Obendrauf kann man gehen [Járni lehet a tetején] <br>
   in: <span style="font-style:italic;">Sprache im technischen Zeitalter. </span> September 2014
-<p>Szvoren, Edina: Lieber guter Pa <br>
+<p>Szvoren, Edina: Lieber guter Pa [Kedves, jó Ap]<br>
   in: <span style="font-style:italic;">Kleine Sprachen - große Literaturen. </span> Edition Kirchhof  Franke, 2012
-<p>Bódis, Kriszta: Es war gut <br>
-  Erdős, Virág: Und das?  <br>
+<p>Bódis, Kriszta: Es war gut [Jó volt]<br>
+  Erdős, Virág: Und das?  [És ő?]<br>
   — Eurydike <br>
-  Kiss, Judit Ágnes: anfangs <br>
-  — Einbahn <br>
-  Kiss, Noémi: Geschichte meiner Kurzsichtigkeit <br>
-  Ladik, Katalin: Glasschwan im Vorzimmer <br>
-  Lovas, Ildikó: Radgeschichten <br>
-  Szabó T., Anna: Verlässt mich <br>
+  Kiss, Judit Ágnes: anfangs [eleinte]<br>
+  — Einbahn [Egyirányú]<br>
+  Kiss, Noémi: Geschichte meiner Kurzsichtigkeit [Rövidlátásom története]<br>
+  Ladik, Katalin: Glasschwan im Vorzimmer [Üveghattyú az előszobában]<br>
+  Lovas, Ildikó: Radgeschichten [Bicajos történetek]<br>
+  Szabó T., Anna: Verlässt mich [Elhagy]<br>
   in: <span style="font-style:italic;">Neue Frauen. Lesebuch</span>. CHB, 2009
-<p>Kiss, Noémi: Buko <br>
+<p>Kiss, Noémi: Buko [Bukó]<br>
   in: <span style="font-style:italic;">Akzente</span>. Hanser, 2006
-<p>Nádasdy, Ádám: Englischer Walzer <br>
+<p>Nádasdy, Ádám: Englischer Walzer [Angol keringő]<br>
   in: Linck, D. (Hrsg.): <span style="font-style:italic;">Sodom ist kein Vaterland</span>. Berlin : Querverlag, 2001.
 <p>Balla, Károly D.: Déjà vu <br>
   in: Dalos, Gy. (Hrsg.): <span style="font-style:italic;">Ungarn von Montag bis Freitag</span>. Franfurt a. M. : Suhrkamp, 1999
-<p>Balla, Károly D.: Hinter dem Licht hervor <br>
-  Gion, Nándor: Nationalfarben <br>
+<p>Balla, Károly D.: Hinter dem Licht hervor [A fény mögül]<br>
+  Gion, Nándor: Nationalfarben [Nemzetik színek]<br>
   in: Rübberdt, I.; Schlosser, Ch. (Hrsg.): <span style="font-style:italic;">Die unsichtbaren Ungarn</span>. Klagenfurt : Wieser, 1999
 <p>
 
