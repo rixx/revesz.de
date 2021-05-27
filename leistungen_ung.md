@@ -14,7 +14,7 @@ A szöveg terjedelmétõl, típusától valamint bonyolultságától függ, hogy
 
 <h3>Fordítás</h3>
 
-A műfordítások esetében  a <a href=“ https://literaturuebersetzer.de/berufspraktisches/rechtliches/normseite/“>szabványoldal </a> 30 sor, maximum 60 leütéssel, bekezdéseknél és a fejezetbeosztásnál az eredeti szöveg mérvadó. 
+A műfordítások esetében  a <a href=“https://literaturuebersetzer.de/berufspraktisches/rechtliches/normseite/“>szabványoldal </a> 30 sor, maximum 60 leütéssel, bekezdéseknél és a fejezetbeosztásnál az eredeti szöveg mérvadó. 
 
 Filmek fordításáért ill. feliratok elkészítéséért a lefordított ill. felirattal ellátott perc az elszámolási egység.
 
