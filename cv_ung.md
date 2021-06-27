@@ -1,6 +1,7 @@
 ---
-title:cv_ung
-layout: default
+title: cv_ung
+layout: default_ung
+permalink: eletpalya
 ---
 <h1>Szakmai életrajz</h1>
 <table cellpadding=5 border=0>

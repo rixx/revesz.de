@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: default_ung
 title: publikationen
+permalink: forditasok
 ---
 
 <h1>Fordítások</h1>

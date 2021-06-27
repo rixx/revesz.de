@@ -1,5 +1,5 @@
 ---
-title:cv
+title: cv
 layout: default
 ---
 <h1>LEBENSLAUF</h1>

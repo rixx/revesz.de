@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: default_ung
+permalink: szolgaltatasok
 ---
 
 <h1>Tapasztalat</h1>

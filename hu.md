@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_ung
 ---
 
 <h1>Kedves Látogató!</h1>
