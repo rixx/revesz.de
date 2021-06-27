@@ -26,3 +26,17 @@ nav_de:
     url: /links
   - title: [magyar]
     url: /hu
+
+nav_hu:
+  - title: honlap
+    url: /hu
+  - title: Szolgáltatások
+    url: 
+  - title: Életrajz
+    url: 
+  - title: Publikációk
+    url:
+  - title: Linkek
+    url: /links
+  - title: [Deutsch]
+    url: /
