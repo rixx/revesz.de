@@ -20,7 +20,7 @@ nav_de:
     url: /leistungen
   - title: Über mich
     url: /cv
-  - title: Publikationen
+  - title: Übersetzungen
     url: /publikationen
   - title: Links
     url: /links
@@ -28,14 +28,14 @@ nav_de:
     url: /hu
 
 nav_hu:
-  - title: honlap
+  - title: Kezdőlap
     url: /hu
   - title: Szolgáltatások
-    url: 
-  - title: Életrajz
-    url: 
-  - title: Publikációk
-    url:
+    url: /leistungen_ung
+  - title: Életpálya
+    url: /cv_ung
+  - title: Fordítások
+    url: /publikationen_ung
   - title: Linkek
     url: /links
   - title: [Deutsch]
