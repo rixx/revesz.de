@@ -13,9 +13,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/revesz.de"
 url: "https://rixx.github.io"
 
-plugins:
-  - jekyll-toc
-
 nav_de:
   - title: Startseite
     url: /

@@ -62,7 +62,7 @@ toc: true
     </nav>
     {% if page.toc %}
       <div id="toc-container">
-        {{ content | toc_only }}
+        {% include toc.html html=content id="toc" %}
       </div>
     {% endif %}
     <div id="main-container">
