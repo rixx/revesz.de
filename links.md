@@ -147,7 +147,6 @@ toc: true
 
 - <a href="http://www.gifte.de/Drogen/slangnamen.htm" target="_blank">Drogenslang </a>
 - <a href="http://www.unmoralische.de/bundeswehrlexikon/bundeswehr.htm" target="_blank">Bundeswehr-Sprache </a>
-- <a href="http://staff-www.uni-marburg.de/~naeser/sponti.htm" target="_blank">Naeser Spontisprüche </a>
 - <a href="http://www.mundmische.de/" target="_blank">Mundmische - Umgangssprache </a>
 
 **Ungarisch**
