@@ -16,6 +16,7 @@
 
   <body>
     <header>
+      <img src="header.jpg" id="header-background">
       <img src="namenszug_chrk_tr2.gif" width=400px; alt="Christina Kunze, Hungarologin und Übersetzerin">
       <div id="head-text">
       </div>
@@ -24,7 +25,6 @@
     <nav id="site-navigation">
       <span id="menu-icon">☰</span>
       <ul id="menu-main">
-
           {% assign current_page = nil %}
           {% if layout.language == "de" %}
             {% assign nav = site.nav_de %}
