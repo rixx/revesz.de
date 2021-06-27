@@ -18,6 +18,5 @@ permalink: eletpalya
 <tr><td> </td><td>2001–2004</td><td>Óraadó a Berlini Humboldt-Egyetemen (műfordítás, országismeret)</td></tr>
 <tr><td>&nbsp;</td><td style="vertical-align:top;">2003 óta</td><td>Hites fordító és hatósági tolmács (Berlin)</td>   
 <tr><td>&nbsp;</td><td style="vertical-align:top;">2017 óta</td><td>Vizsgáztató (Berlin, Prüfungsamt für Übersetzerinnen und Übersetzer)</td>    
-<tr><td>&nbsp;</td><td>&nbsp;</td><td>Mitglied im <a href="https://literaturuebersetzer.de/">VdÜ</a></td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td>Tagság:</td><td>&nbsp;</td><td><a href="https://literaturuebersetzer.de/">VdÜ</a> (Német Műfordítók Egyesülete)</td></tr>
