@@ -31,15 +31,15 @@ header #title {
 header #slideshow img {
     display: none;
 }
-nav #menu-icon {
+nav#site-navigation #menu-icon {
     display: none;
 }
-nav {
+nav#site-navigation {
     background-color: #a5a5a5;
     display: flex;
     justify-content: center;
 }
-nav ul {
+nav#site-navigation ul {
     display: flex;
     list-style: none;
     margin: 0;
@@ -48,7 +48,7 @@ nav ul {
     width: 800px;
 
 }
-nav ul a {
+nav#site-navigation ul a {
     color: #eeeeff;
     font-weight: normal;
     text-decoration: none;
@@ -65,6 +65,25 @@ main {
     border-radius: 12px;
     padding: 6px 20px;
     color: #000070;
+}
+#toc {
+    background-color: #679c30;
+    padding: 16px 32px;
+    border-radius: 12px;
+    color: #eeeeff;
+    position: fixed;
+    left: 20px;
+    top: 350px;
+    width: 260px;
+    max-height: 400px;
+    overflow-y: auto;
+}
+#toc a {
+    color: white;
+    text-decoration: none;
+}
+#toc ul {
+    padding-left: 16px;
 }
 
 footer {
