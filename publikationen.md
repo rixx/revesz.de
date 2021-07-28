@@ -28,6 +28,7 @@ title: publikationen
 <p>
 
 <h3>Kurzgeschichten und Lyrik in Anthologien und Zeitschriften (Auswahl)</h3>
+<p>Borbély, Szilárd: Der bulgarische Schaffner <br>in: <span style="font-style:italic;">Sinn und Form. </span> 4/2021
 <p>Tolnai, Ottó: <a href="https://www.signaturen-magazin.de/otto-tolnai--doreen-2--statt-einer-ars-poetica-.html">Doreen II. Statt einer ars poetica</a><br>
   — <a href="https://www.signaturen-magazin.de/otto-tolnai--drei-re-kapitulationen.html">Drei Re-Kapitulationen</a><br>
   
