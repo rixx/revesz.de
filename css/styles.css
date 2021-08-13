@@ -12,15 +12,12 @@ header {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    padding: 0 120px; 
     background: linear-gradient(to right, #8bb8f1, #fff);
+    background-image: url("/revesz.de/img/header.jpg");
 }
-header #header-background {
-    position: absolute;
-    z-index: 1;
-    left: 0;
-    top: 0;
-    max-height: 100%;
+header #schriftzug {
+    width: 400px;
+    padding-left: 120px;
 }
 header > * {
     z-index: 10;
@@ -30,6 +27,8 @@ header #title {
 }
 header #slideshow img {
     display: none;
+    height: 200px;
+    padding-right: 100px;
 }
 nav#site-navigation #menu-icon {
     display: none;
