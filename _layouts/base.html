@@ -41,13 +41,16 @@ toc: true
           {% endif %}
           {% for link in nav %}
               {% assign current = '' %}
-              {% if page.url == "/" and link.url == "/index.html" %}
+              {% if link.url == "/" %}
+                {% if page.url == "/" %}
                   {% assign current = 'current' %}
                   {% assign current_page = link %}
-              {% endif %}
-              {% if page.url contains link.url %}
-                  {% assign current = 'current' %}
-                  {% assign current_page = link %}
+                {% endif %}
+              {% else %}
+                {% if page.url contains link.url %}
+                    {% assign current = 'current' %}
+                    {% assign current_page = link %}
+                {% endif %}
               {% endif %}
               <li class="menu-item {{ current }}">
                   <a href="{% if link.url contains "://" %}{{ link.url }}{% else %}{{ link.url | prepend: site.baseurl }}{% endif %}"
