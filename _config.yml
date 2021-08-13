@@ -11,7 +11,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Sie brauchen eine Übersetzung aus dem Ungarischen?
   Gern übernehme ich Ihren Auftrag.
 baseurl: ""
-url: "https://rixx.github.io"
+url: "https://revesz.de"
 
 nav_de:
   - title: Startseite
