@@ -5,7 +5,7 @@ toc: true
 <html lang="{{ layout.language }}">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ site.title }}</title>
     <meta property="og:title" content="{{ site.title }}" />
     <meta property="og:locale" content="de_DE" />
@@ -62,6 +62,12 @@ toc: true
           <!-- TODO kontakt+impressum ins mobile menü -->
       </ul>
     </nav>
+    <footer>
+      <h1>{{ layout.contact }}</h1>
+      <p>Berliner Allee 198 <br>13088 Berlin</p>
+      <p>Telefon: <a href="tel:+493092377807" style="text-decoration:none; color:#eeeeff;">+49 30 92377807</a></p>
+      <p>E-Mail: kunze@revesz.de</p>
+    </footer>
     {% if page.toc %}
       <div id="toc-container">
         {% include toc.html html=content id="toc" %}
@@ -81,12 +87,6 @@ toc: true
       </div>
       {% endif %}
     </div>
-    <footer>
-      <h1>{{ layout.contact }}</h1>
-      <p>Berliner Allee 198<br>13088 Berlin</p>
-      <p>Telefon: <a href="tel:+493092377807" style="text-decoration:none; color:#eeeeff;">+49 30 92377807</a></p>
-      <p>E-Mail: kunze@revesz.de</p>
-    </footer>
     <a id="impressum" href="{{site.baseurl}}/impressum">Impressum/Datenschutz</a>
   </body>
 </html>
