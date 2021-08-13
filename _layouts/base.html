@@ -71,6 +71,15 @@ toc: true
       <main role="main">
         {{ content }}
       </main>
+      {% if page.url == "/" %}
+      <div id="news">
+        {% include news.html %}
+      </div>
+      {% else if page.url == "/hu"}
+      <div id="news">
+        {% include news.hu.md %}
+      </div>
+      {% endif %}
     </div>
     <footer>
       <h1>{{ layout.contact }}</h1>
