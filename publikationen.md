@@ -6,7 +6,7 @@ title: publikationen
 <h1>Übersetzungen</h1>
 
 <h3>Bücher</h3>
-<p>Berkovits, György: <span style="font-style:italic">Die hundertjährige Tänzerin.</span> [A százéves táncosnő] <br>München : Schenk, erscheint demnächst
+<p>Berkovits, György: <span style="font-style:italic">Die hundertjährige Tänzerin.</span> [A százéves táncosnő] <br>München : Schenk, 2021
 <p>Papp, Sándor Zsigmond: <span style="font-style:italic">Der süße Betrug des Lebens.</span> [Semmi kis életek] <br>München : Heyne, 2019
 <p>Berg, Judit: <span style="font-style:italic">Rumini.</span> [Rumini] <br>Create Space Independent Publishing, 2016
 <p>Márai, Sándor: <span style="font-style:italic">Die Eifersüchtigen.</span> [Féltékenyek] <br>München : Piper, 2015
