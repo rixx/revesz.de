@@ -73,6 +73,7 @@ toc: true
 - <a href="http://databases.unesco.org/xtrans/xtra-form.shtml" target="_blank">Index translationum </a>
 - <a href="http://demeter.oszk.hu/apache2-default/d.php?a=ix" target="_blank">Demeter: Bibliographia Hungarica </a>
 
+## &nbsp;
 ## Berufliches
 
 **Übersetzer:**
