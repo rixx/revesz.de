@@ -23,7 +23,7 @@ toc: true
 
 **Ungarisch**
 
-- <a href="http://www.mek.oszk.hu/katalog/index.phtml" target="_blank">Magyar Elektrónikus Könyvtár (Ungarische Literatur, teilw. Übersetzungen)</a>
+- <a href="http://www.mek.oszk.hu/katalog/index.phtml" target="_blank">Magyar Elektronikus Könyvtár (Ungarische Literatur, teilw. Übersetzungen)</a>
 - <a href="http://www.pim.hu/object.d8f182da-fdfa-45ba-914f-2688ce822346.ivy" target="_blank">Digitális Irodalmi Akadémia (neue ungarische Literatur)</a>
 - <a href="http://www.babelmatrix.org/" target="_blank">Babelmatrix (Lyrik in mehreren Sprachen mit Übersetzung) </a>
 - <a href="http://www.lyrikline.org/de/startseite/" target="_blank">Lyrikline (Lyrik in mehreren Sprachen mit Audiodateien, teilweise mit Übersetzung) </a>
