@@ -114,7 +114,8 @@ toc: true
 - <a href="http://dict.sztaki.hu/deutsch-ungarisch" target="_blank">Sztaki HU <> DE </a>
 - <a href="https://dehu.dict.cc/">dict Ungarisch <> Deutsch </a>
 - <a href="http://mek.oszk.hu/00000/00080/html/" target="_blank">cigány–magyar szójegyzék</a>
-- <a href="http://mek.oszk.hu/00200/00243/00243.htm" target="_blank">Gyula Paczolay: 750 Ungarische Sprichwörter und Redewendungen </a><!--img src="Gomb.JPG"-->
+- <a href="http://mek.oszk.hu/00200/00243/00243.htm" target="_blank">Gyula Paczolay: 750 Ungarische Sprichwörter und Redewendungen </a>
+- <a href="https://mek.oszk.hu/14700/14728/14728.pdf" target="_blank">Henrik Schlandt: Magyar–német közmondások lexikona (1913) </a>
 
 
 <!-- Einsprachige Wörterbücher -->
