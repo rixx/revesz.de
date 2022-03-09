@@ -137,7 +137,7 @@ toc: true
 - <a href="https://www.arcanum.hu/hu/online-kiadvanyok/" target="_blank">Arcanum </a> (Értelmező Szótárak) 
 - <a href="http://corpus.nytud.hu/mnsz/" target="_blank">Magyar Nemzeti Szövegtár (mit Registrierung) </a>
 - <a href="http://hu.words-finder.com/">Wortsuche, auch rückläufig </a>
-  - 2a href="https://mnytud.arts.unideb.hu/sorozat/balassi/index.html">Balassi-szótár </a>
+- <a href="https://mnytud.arts.unideb.hu/sorozat/balassi/index.html">Balassi-szótár </a>
 - <a href="http://mnytud.arts.klte.hu/sorozat/csoksz/szottart.htm" target="_blank">Csokonai szókincstár </a>
 - <a href="http://szekelymagyar.transindex.ro/" target="_blank">Székelymagyar szavak </a>
 
