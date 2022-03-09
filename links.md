@@ -13,13 +13,11 @@ toc: true
 - <a href="http://www.ingeb.org" target="_blank">Liedertexte, </a>insbesondere:
 - <a href="http://www.ingeb.org/catost.html" target="_blank">Deutsche Lieder aus dem Osten </a>, u.a. ungarndeutsche Texte
 
----------------
 
 - <a href="http://www.korpora.org/kant/verzeichnisse-gesamt.html" target="_blank">Kant (Akademieausgabe) </a>
 - <a href="http://www.nietzschesource.org/" target="_blank">Nietzsche Digitale Kritische Gesamtausgabe </a>
 - <a href="http://www.zeno.org/" target="blank">Zeno.org </a>
 
----------------
 
 **Ungarisch**
 
@@ -28,7 +26,6 @@ toc: true
 - <a href="http://www.babelmatrix.org/" target="_blank">Babelmatrix (Lyrik in mehreren Sprachen mit Übersetzung) </a>
 - <a href="http://www.lyrikline.org/de/startseite/" target="_blank">Lyrikline (Lyrik in mehreren Sprachen mit Audiodateien, teilweise mit Übersetzung) </a>
 
----------------
 
 **Altsprachen**
 
@@ -39,6 +36,7 @@ toc: true
 - <a href="http://www.philological.bham.ac.uk/library.html" target="_blank">Library of Humanistic Texts </a>
 
 
+---------------
 
 <!-- Bibliotheken -->
 ## Bücher und Bibliotheken
@@ -48,7 +46,7 @@ toc: true
 - <a href="http://www.eurobuch.com/" target="_blank">Eurobuch</a>
 - <a href="http://antikvarium.hu/home.php" target="_blank">Használt könyvek </a>
 
----------------
+
 
 **Bibliotheken**
 
@@ -59,20 +57,19 @@ toc: true
 - <a href="http://opac.hu-berlin.de/" target="_blank">Unibibliothek der Humboldt-Universität</a> (mit Teilbibliothek Finno-Ugristik) 
 - <a href="http://catalog.loc.gov/" target="_blank">Library of Congress </a>
 
----------------
 
 - <a href="http://nektar.oszk.hu/" target="_blank">Országos Széchényi Könyvtár (Ungarische Staatsbibliothek) </a>
 - <a href="http://corvina.lib.pte.hu/" target="_blank">A Pécsi Tudományegyetem Könyvtára </a>
 - <a href="https://qulto.bibl.u-szeged.hu/web/guest/search" target="_blank">SZTE Klebelsberg Könyvtár</a> 
 - <a href="http://mek.oszk.hu/html/opac.htm" target="_blank">Könyvtári információ Magyarországon </a>
 
----------------
 
 **Übersetzungen:**
 
 - <a href="http://databases.unesco.org/xtrans/xtra-form.shtml" target="_blank">Index translationum </a>
 - <a href="http://demeter.oszk.hu/apache2-default/d.php?a=ix" target="_blank">Demeter: Bibliographia Hungarica </a>
 
+---------------
 ## &nbsp;
 ## Berufliches
 
@@ -81,11 +78,12 @@ toc: true
 - <a href="http://www.bdue.de/" target="_blank">BDÜ </a>
 - <a href="http://www.literaturuebersetzer.de/" target="_blank">VdÜ – Verband deutschsprachiger Übersetzer/innen literarischer und wissenschaftlicher Werke </a>
 
----------------
 
 **Freiberufler:**
 
 - <a href="http://www.mediafon.de/" target="_blank">Mediafon</a>
+
+---------------
 
 ## Wörterbücher
 
@@ -159,6 +157,9 @@ toc: true
 - <a href="http://mnytud.arts.klte.hu/sorozat/katszl/szotar.htm" target="_blank">Katonai szlengszótár </a>
 - <a href="http://mnytud.arts.klte.hu/szleng/minitini/minitart.htm" target="_blank">mini tini - a mai magyar diáknyelv </a>
 
+  
+  ---------------
+  
 <!-- Nachschlagewerke -->
 ## Zum Nachschlagen: Lexika, Glossare etc. – Lexikonok, szószedetek stb.
 
