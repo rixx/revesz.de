@@ -70,7 +70,7 @@ toc: true
 - <a href="http://demeter.oszk.hu/apache2-default/d.php?a=ix" target="_blank">Demeter: Bibliographia Hungarica </a>
 
 ---------------
-## &nbsp;
+
 ## Berufliches
 
 **Übersetzer:**
