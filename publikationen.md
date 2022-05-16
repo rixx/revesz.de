@@ -6,6 +6,8 @@ title: publikationen
 <h1>Übersetzungen</h1>
 
 <h3>Bücher</h3>
+<p>Végel, László: <span style="font-style:italic">Neoplanta oder das Gelobte Land. Stadtroman.</span> [Neoplanta avagy az Ígéret Földje] <br>Klagenfurt : Wieser, erscheint im Juni 2022
+<p>Zusammen mit Tünde Malomvölygi und Timea Tankó: Nagy, Boldizsár (Hg.): <span style="font-style:italic">Märchenland für alle.</span> [Meseország mindenkié] <br>München : Dorling Kindersley, 2022
 <p>Berkovits, György: <span style="font-style:italic">Die hundertjährige Tänzerin.</span> [A százéves táncosnő] <br>München : Schenk, 2021
 <p>Papp, Sándor Zsigmond: <span style="font-style:italic">Der süße Betrug des Lebens.</span> [Semmi kis életek] <br>München : Heyne, 2019
 <p>Berg, Judit: <span style="font-style:italic">Rumini.</span> [Rumini] <br>Create Space Independent Publishing, 2016
