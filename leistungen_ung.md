@@ -15,7 +15,7 @@ A szöveg terjedelmétõl, típusától valamint bonyolultságától függ, hogy
 
 <h3>Fordítás</h3>
 
-A műfordítások esetében  a <a href=“https://literaturuebersetzer.de/berufspraktisches/rechtliches/normseite/“>szabványoldal </a> 30 sor, maximum 60 leütéssel, bekezdéseknél és a fejezetbeosztásnál az eredeti szöveg mérvadó. 
+A műfordítások esetében  a <a href="https://literaturuebersetzer.de/berufspraktisches/rechtliches/normseite/">szabványoldal</a> 30 sor, maximum 60 leütéssel, bekezdéseknél és a fejezetbeosztásnál az eredeti szöveg mérvadó. 
 
 Filmek fordításáért ill. feliratok elkészítéséért a lefordított ill. felirattal ellátott perc az elszámolási egység.
 
@@ -24,7 +24,7 @@ Szakszövegeket soronként számítok; egy szabványsor 55 leütésbõl áll. Ad
 Összefoglalás, véleményezés valamint expozé készítését átalányáron vállalok.
 
 <h3>Tolmácsolás </h3>
-A tolmácsolást többnyire óra- vagy napidíban számolom el. A helyszínre utazásra, illetve szünetekre valamint az esetleges – a tolmácsnak fel nem róható – várakozásra fordított idő munkaidőnek minősül.
+A tolmácsolást többnyire óra- vagy napidíjban számolom el. A helyszínre utazásra, illetve szünetekre valamint az esetleges – a tolmácsnak fel nem róható – várakozásra fordított idő munkaidőnek minősül.
 Itt is lehetséges átalánydíj.
 
 <h3>Egyéb</h3>
