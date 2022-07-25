@@ -14,7 +14,7 @@ permalink: eletpalya
 <tr><td>Szakmai tapasztalat:</td><td>1996 óta</td><td>(jogi és bölcsészettudományi) szakszövegek fordítása</td></tr>
 <tr><td> </td><td>1996</td><td>Demonstrátor a Berlini Humboldt-Egyetem Magyar Tanszékén</td></tr>
 <tr><td> </td><td>1998 óta</td><td>Idegennyelvi titkárnő a Berlini Humboldt-Egyetem Magyar Tanszékén</td></tr>
- <tr><td> </td><td>1998 óta</td><td><a href="publikationen_ung.md">Műfordítások</a></td></tr>
+ <tr><td> </td><td>1998 óta</td><td><a href="publikationen_ung">Műfordítások</a></td></tr>
 <tr><td> </td><td>2001–2004</td><td>Óraadó a Berlini Humboldt-Egyetemen (műfordítás, országismeret)</td></tr>
 <tr><td>&nbsp;</td><td style="vertical-align:top;">2003 óta</td><td>Hites fordító és hatósági tolmács (Berlin)</td>   
 <tr><td>&nbsp;</td><td style="vertical-align:top;">2017 óta</td><td>Vizsgáztató (Berlin, Prüfungsamt für Übersetzerinnen und Übersetzer)</td>    
