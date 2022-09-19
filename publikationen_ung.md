@@ -31,9 +31,9 @@ permalink: forditasok
 <p>
 
 <h3>Novellák és versek antológiákban és folyóiratokban (válogatás)</h3>
-<p>Nemes Nagy, Ágnes: Brachte Statuen <br>
+<p>Nemes Nagy, Ágnes: Brachte Statuen [Szobrokat vittem]<br>
   in: <span style="font-style:italic;">Mein Hirn: Ein See.</span> Engeler, 2022
-<p>Nemes Nagy, Ágnes: Aus den Aufzeichnungen des Echnaton <br>
+<p>Nemes Nagy, Ágnes: Aus den Aufzeichnungen des Echnaton [Ekhnáton jegyzeteiből]<br>
   in: <span style="font-style:italic;">Spiegelungen.</span> Friedrich Pustet, 2022
 <p>Borbély Szilárd: Der bulgarische Schaffner <br>in: <span style="font-style:italic;">Sinn und Form. </span> 4/2021
 <p>Tolnai Ottó: <a href="https://www.signaturen-magazin.de/otto-tolnai--doreen-2--statt-einer-ars-poetica-.html">Doreen II. Statt einer ars poetica [Doreen II. Ars poetica helyett]</a><br>
