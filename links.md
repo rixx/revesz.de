@@ -144,7 +144,7 @@ toc: true
 
 
 <!-- Gruppensprachen -->
-### Gruppensprachen – Csoportnyelvek
+### Gruppensprachen – Csoportnyelvek 
 
 **Deutsch**
 
