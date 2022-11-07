@@ -6,27 +6,27 @@ title: publikationen
 <h1>Übersetzungen</h1>
 
 <h3>Bücher</h3>
-<p>Végel, László: <span style="font-style:italic">Neoplanta oder das Gelobte Land. Stadtroman.</span> [Neoplanta avagy az Ígéret Földje. Városregény] <br>Novi Sad: Akademska knjiga / Klagenfurt : Wieser, 2022
-<p>Zusammen mit Tünde Malomvölygi und Timea Tankó: Nagy, Boldizsár (Hg.): <span style="font-style:italic">Märchenland für alle.</span> [Meseország mindenkié] <br>München : Dorling Kindersley, 2022
-<p>Berkovits, György: <span style="font-style:italic">Die hundertjährige Tänzerin.</span> [A százéves táncosnő] <br>München : Schenk, 2021
-<p>Papp, Sándor Zsigmond: <span style="font-style:italic">Der süße Betrug des Lebens.</span> [Semmi kis életek] <br>München : Heyne, 2019
-<p>Berg, Judit: <span style="font-style:italic">Rumini.</span> [Rumini] <br>Create Space Independent Publishing, 2016
-<p>Márai, Sándor: <span style="font-style:italic">Die Eifersüchtigen.</span> [Féltékenyek] <br>München : Piper, 2015
-<p>Márai, Sándor: <span style="font-style:italic">Die Frauen von Ithaka.</span> [Béke Ithakában] <br>München : Piper, 2013
-<p>Nemes Nagy, Ágnes: <span style="font-style:italic">Hasenmamas Osterfest.</span> [Nyúlanyó húsvétja] <br>Leipzig : Leiv, 2013
-<p>Gazdag, Erzsi: <span style="font-style:italic">Der Sommer ist da.</span> [Itt a nyár] <br>Leipzig : Leiv, 2013
-<p>Zelk, Zoltán: <span style="font-style:italic">Die drei Hasen.</span> [A három nyúl] <br>Leipzig : Leiv, 2013
-<p>Mosonyi, Aliz: <span style="font-style:italic">Der Radieschenkönig.</span> [Retekorrú király] <br>Leipzig : Leiv, 2013
-<p>Márai, Sándor: <span style="font-style:italic">Die Schwester.</span> [A növér] <br>München : Piper, 2011
-<p>Márai, Sándor: <span style="font-style:italic">Befreiung.</span> [Szabadulás] <br>München : Piper, 2010
-<p>Bódis, Kriszta: <span style="font-style:italic">Artista.</span> <br>Dresden : Voland  Quist, 2009.
-<p>Lovas, Ildikó: <span style="font-style:italic">Zugang zur Adria. James Bond in der Batschka.</span> [Kijárat az Adriára. James Bond Bácskában ] <br>Budapest : Balassi Bálint Intézet, 2008
-<p>Márai, Sándor: <span style="font-style:italic">Die Möwe.</span> [Sirály] <br>München : Piper, 2008
-<p>Molnár, Ákos: <span style="font-style:italic">Zwölf Schritte.</span> [Tizenkét lépés] <br>München : Piper, 2007
-<p>Hász, Róbert: <span style="font-style:italic">Bis in alle Ewigkeit.</span> [Végvár] <br>München : Klett-Cotta, 2006
-<p>Heller, Ágnes: <span style="font-style:italic">Die Auferstehung des jüdischen Jesus.</span> [A zsidó Jézus feltámadása] <br>Berlin : Philo, 2002
-<p>Bozai, Agóta: <span style="font-style:italic">Irren ist göttlich.</span> [Tranzit glória] <br>Wien : Kremayr  Scheriau, 2001
-<p><span style="font-style:italic">Modern magyar novellák - Moderne ungarische Erzählungen.</span> <br>München : dtv, 1999 (Auswahl und Übersetzung)
+<p>Végel, László: <span style="font-style:italic">Neoplanta oder das Gelobte Land. Stadtroman</span> [Neoplanta avagy az Ígéret Földje. Városregény] <br>Novi Sad: Akademska knjiga / Klagenfurt : Wieser, 2022
+<p>Zusammen mit Tünde Malomvölygi und Timea Tankó: Nagy, Boldizsár (Hg.): <span style="font-style:italic">Märchenland für alle</span> [Meseország mindenkié] <br>München : Dorling Kindersley, 2022
+<p>Berkovits, György: <span style="font-style:italic">Die hundertjährige Tänzerin</span> [A százéves táncosnő] <br>München : Schenk, 2021
+<p>Papp, Sándor Zsigmond: <span style="font-style:italic">Der süße Betrug des Lebens</span> [Semmi kis életek] <br>München : Heyne, 2019
+<p>Berg, Judit: <span style="font-style:italic">Rumini</span> [Rumini] <br>Create Space Independent Publishing, 2016
+<p>Márai, Sándor: <span style="font-style:italic">Die Eifersüchtigen</span> [Féltékenyek] <br>München : Piper, 2015
+<p>Márai, Sándor: <span style="font-style:italic">Die Frauen von Ithaka</span> [Béke Ithakában] <br>München : Piper, 2013
+<p>Nemes Nagy, Ágnes: <span style="font-style:italic">Hasenmamas Osterfest</span> [Nyúlanyó húsvétja] <br>Leipzig : Leiv, 2013
+<p>Gazdag, Erzsi: <span style="font-style:italic">Der Sommer ist da</span> [Itt a nyár] <br>Leipzig : Leiv, 2013
+<p>Zelk, Zoltán: <span style="font-style:italic">Die drei Hasen</span> [A három nyúl] <br>Leipzig : Leiv, 2013
+<p>Mosonyi, Aliz: <span style="font-style:italic">Der Radieschenkönig</span> [Retekorrú király] <br>Leipzig : Leiv, 2013
+<p>Márai, Sándor: <span style="font-style:italic">Die Schwester</span> [A növér] <br>München : Piper, 2011
+<p>Márai, Sándor: <span style="font-style:italic">Befreiung</span> [Szabadulás] <br>München : Piper, 2010
+<p>Bódis, Kriszta: <span style="font-style:italic">Artista</span> <br>Dresden : Voland  Quist, 2009.
+<p>Lovas, Ildikó: <span style="font-style:italic">Zugang zur Adria. James Bond in der Batschka</span> [Kijárat az Adriára. James Bond Bácskában ] <br>Budapest : Balassi Bálint Intézet, 2008
+<p>Márai, Sándor: <span style="font-style:italic">Die Möwe</span> [Sirály] <br>München : Piper, 2008
+<p>Molnár, Ákos: <span style="font-style:italic">Zwölf Schritte</span> [Tizenkét lépés] <br>München : Piper, 2007
+<p>Hász, Róbert: <span style="font-style:italic">Bis in alle Ewigkeit</span> [Végvár] <br>München : Klett-Cotta, 2006
+<p>Heller, Ágnes: <span style="font-style:italic">Die Auferstehung des jüdischen Jesus</span> [A zsidó Jézus feltámadása] <br>Berlin : Philo, 2002
+<p>Bozai, Agóta: <span style="font-style:italic">Irren ist göttlich</span> [Tranzit glória] <br>Wien : Kremayr  Scheriau, 2001
+<p><span style="font-style:italic">Modern magyar novellák - Moderne ungarische Erzählungen</span> <br>München : dtv, 1999 (Auswahl und Übersetzung)
 <p>
 
 <h3>Kurzgeschichten und Lyrik in Anthologien und Zeitschriften (Auswahl)</h3>
@@ -72,7 +72,7 @@ Hidas, Judit: Tourist in Afrika <br>
 
 <h3>Sachtexte (Auswahl)</h3>
 <p>Bónus, Tibor: Die Kunst, Fliegen zu fangen: Textualität, Aleatorik und Redehaftigkeit (Zu einer Neulektüre des Produktionsromans)<br>
-  Kulcsár Szabó, Ernő: »Grazöse« Ungebundenheit<br>
+  Kulcsár Szabó, Ernő: »Graziöse« Ungebundenheit<br>
   Márton, László: Péter Esterházy – Werk und Wirkung <br>
   Szirák, Péter: Ausgesprochen unausgesprochen <br>
   in: Lőrincz, Cs./ L. Varga, P. (Hg.):<span style="font-style:italic;">Herausforderung der Literatur: Péter Esterházy</span>. Berlin : de Gruyter, 2021
