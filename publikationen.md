@@ -71,6 +71,8 @@ Hidas, Judit: Tourist in Afrika <br>
 <p>
 
 <h3>Sachtexte (Auswahl)</h3>
+<p>Ziegler, Ágnes: <span style="font-style:italic;">Die Schwarze Kirche zu Kronstadt – Reformation und Wiederaufbau</span><br>
+  Regensburg : Schnell & Steiner, 2022
 <p>Bónus, Tibor: Die Kunst, Fliegen zu fangen: Textualität, Aleatorik und Redehaftigkeit (Zu einer Neulektüre des Produktionsromans)<br>
   Kulcsár Szabó, Ernő: »Graziöse« Ungebundenheit<br>
   Márton, László: Péter Esterházy – Werk und Wirkung <br>
