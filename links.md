@@ -30,6 +30,7 @@ toc: true
 **Altsprachen**
 
 - <a href="http://www.perseus.tufts.edu/hopper/" target="_blank">Perseus Digital Library</a>
+- <a href="https://bkv.unifr.ch/de" target="_blank">Bibliothek der Kirchenväter</a>
 - <a href="http://www.fh-augsburg.de/~harsch/augusta.html" target="_blank">Bibliotheca Augustana </a>
 - <a href="http://www.thelatinlibrary.com/" target="_blank">The Latin Library </a>
 - <a href="http://www.uni-mannheim.de/mateo/camenahtdocs/start1.html" target="_blank">Camena – Neulateinische Texte aus dem dt. Sprachraum </a>
