@@ -246,7 +246,6 @@ Literatur – Irodalom:
 Musik – Zene:
 - <a href="http://www.musiklehre.at/fachwortlexikon/" target="_blank">Musikbegriffe </a>
 - <a href="http://glossar.mv-sulzbach.de/" target="_blank">Musikglossar </a>
-
 - <a href="http://www.terrasoft.hu/kultura/kaboca/zeneilex/" target="_blank">Zenei lexikon </a>
 
 
