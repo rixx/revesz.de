@@ -30,6 +30,8 @@ title: publikationen
 <p>
 
 <h3>Kurzgeschichten und Lyrik in Anthologien und Zeitschriften (Auswahl)</h3>
+<p>Végel, László: Wache. Ostmitteleuropäische Wende-Elegie <br>
+  in: <span style="font-style:italic;">Anachronia 18</span>, 2023
 <p>Nemes Nagy, Ágnes: Brachte Statuen <br>
   in: <span style="font-style:italic;">Mein Hirn: Ein See.</span> Engeler, 2022
 <p>Nemes Nagy, Ágnes: Aus den Aufzeichnungen des Echnaton <br>
