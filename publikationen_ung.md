@@ -31,6 +31,8 @@ permalink: forditasok
 <p>
 
 <h3>Novellák és versek antológiákban és folyóiratokban (válogatás)</h3>
+<p>Végel, László: Wache. Ostmitteleuropäische Wende-Elegie <br>
+  in: <span style="font-style:italic;">Anachronia 18</span>, 2023
 <p>Nemes Nagy, Ágnes: Brachte Statuen [Szobrokat vittem]<br>
   in: <span style="font-style:italic;">Mein Hirn: Ein See.</span> Engeler, 2022
 <p>Nemes Nagy, Ágnes: Aus den Aufzeichnungen des Echnaton [Ekhnáton jegyzeteiből]<br>
