@@ -152,6 +152,7 @@ toc: true
 - <a href="http://www.gifte.de/Drogen/slangnamen.htm" target="_blank">Drogenslang </a>
 - <a href="http://www.unmoralische.de/bundeswehrlexikon/bundeswehr.htm" target="_blank">Bundeswehr-Sprache </a>
 - <a href="http://www.mundmische.de/" target="_blank">Mundmische - Umgangssprache </a>
+- <a href="https://www.projekt-gutenberg.org/ostwaldh/sprarinn/sprarinn.html">Hans Ostwald: Rinnsteinsprache. Lexikon der Gauner-, Dirnen- und Landstreichersprache</a>
 
 **Ungarisch**
 
