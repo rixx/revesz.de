@@ -7,7 +7,8 @@ permalink: forditasok
 <h1>Fordítások</h1>
 
 <h3>Könyvek</h3>
-<p>Végel, László: <span style="font-style:italic">Neoplanta oder das Gelobte Land. Stadtroman.</span> [Neoplanta avagy az Ígéret Földje. Városregény] <br>Novi Sad : Akademska knjiga / Klagenfurt : Wieser, 2022. 
+<p>Végel László: <span style="font-style:italic">Balkanschönheit oder Schlemihls Bastard</span> [Balkáni szépség avagy Slemil fattyúja] <br> Klagenfurt : Wieser, 2023
+<p>Végel László: <span style="font-style:italic">Neoplanta oder das Gelobte Land. Stadtroman.</span> [Neoplanta avagy az Ígéret Földje. Városregény] <br>Novi Sad : Akademska knjiga / Klagenfurt : Wieser, 2022. 
 <p>Zusammen mit Tünde Malomvölygi und Timea Tankó: Nagy, Boldizsár (Hg.): <span style="font-style:italic">Märchenland für alle.</span> [Meseország mindenkié] <br>München : Dorling Kindersley, 2022
 <p>Berkovits György: <span style="font-style:italic">Die hundertjährige Tänzerin.</span> [A százéves táncosnő] <br>München : Schenk, 2021
 <p>Papp Sándor Zsigmond: <span style="font-style:italic">Der süße Betrug des Lebens.</span> [Semmi kis életek] <br>München : Heyne, 2019
