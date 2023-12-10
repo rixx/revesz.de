@@ -127,6 +127,7 @@ toc: true
 - <a href="http://www.zeno.org/Adelung-1793" target="_blank">Adelung - Grammatisch-kritisches Wörterbuch der hochdeutschen Mundart (1793) </a>
 - <a href="https://woerterbuchnetz.de/?sigle=DWB#0" target="_blank">Grimm </a>
 - <a href="http://www.dwds.de/" target="_blank">DWDS – Digitales Wörterbuch der deutschen Sprache des 20. Jhs </a>
+- <a href="https://www.owid.de/" target="_blank">Das Online-Wortschatz-Informationssystem Deutsch des Leibniz-Instituts für Deutsche Sprache (IDS), Mannheim </a>
 - <a href="https://books.google.com/ngrams" target="_blank">Google Ngram Viewer (Verwendungshäufigkeit von Wörtern) </a>
 - <a href="http://www.redensarten-index.de/suche.php4" target="_blank">Redensarten </a>
 - <a href="https://www.ostarrichi.org/woerterbuch" target="_blank">Deutsche Sprache in Österreich </a>
