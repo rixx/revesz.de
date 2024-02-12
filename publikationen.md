@@ -74,6 +74,9 @@ Hidas, Judit: Tourist in Afrika <br>
 <p>
 
 <h3>Sachtexte (Auswahl)</h3>
+ Simon, Attila: Religiöse Bindungen der Magyaren in der Slowakei<br>
+ Veronika Szeghy-Gayer: Die Juden in der Slowakei zwischen den beiden Weltkriegen<br>
+  in: Zückert, M. / Bischof, A. (Hg.):<span style="font-style:italic;">Handbuch der Religions- und Kirchengeschichte der Slowakei im 20. Jahrhundert</span>. Göttingen : Vandenhoeck & Ruprecht, 2024
 <p>Nyiszli, Miklós: <span style="font-style:italic;">Im Jenseits der Menschlichkeit. Ein Gerichtsmediziner in Auschwitz</span><br>
   Berlin : Dietz, 2024
 <p>Ziegler, Ágnes: <span style="font-style:italic;">Die Schwarze Kirche zu Kronstadt – Reformation und Wiederaufbau</span><br>
