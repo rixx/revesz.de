@@ -75,7 +75,7 @@ Hidas, Judit: Tourist in Afrika <br>
 
 <h3>Sachtexte (Auswahl)</h3>
 <p>Nyiszli, Miklós: <span style="font-style:italic;">Im Jenseits der Menschlichkeit. Ein Gerichtsmediziner in Auschwitz</span><br>
-  Berlin : Dietz, 2022
+  Berlin : Dietz, 2024
 <p>Ziegler, Ágnes: <span style="font-style:italic;">Die Schwarze Kirche zu Kronstadt – Reformation und Wiederaufbau</span><br>
   Regensburg : Schnell & Steiner, 2022
 <p>Bónus, Tibor: Die Kunst, Fliegen zu fangen: Textualität, Aleatorik und Redehaftigkeit (Zu einer Neulektüre des Produktionsromans)<br>
