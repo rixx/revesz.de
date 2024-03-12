@@ -31,6 +31,10 @@ title: publikationen
 <p>
 
 <h3>Kurzgeschichten und Lyrik in Anthologien und Zeitschriften (Auswahl)</h3>
+<p>Babarczy, Eszter: Großmutter <br>
+Papp-Zakor, Ilka: Engelsmahl <br>
+  Szvoren, Edina: Ohrwurm-Notizen XXVI (Ich bringe den Herd zum Dröhnen)<br>
+  in: <span style="font-style:italic;">Anscheinend gehört die Welt uns? </span> KLAK, 2024
 <p>Végel, László: Wache. Ostmitteleuropäische Wende-Elegie <br>
   in: <span style="font-style:italic;">Anachronia 18</span>, 2023
 <p>Nemes Nagy, Ágnes: Brachte Statuen <br>
