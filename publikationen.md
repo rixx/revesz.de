@@ -78,7 +78,9 @@ Hidas, Judit: Tourist in Afrika <br>
 <p>
 
 <h3>Sachtexte (Auswahl)</h3>
- Simon, Attila: Religiöse Bindungen der Magyaren in der Slowakei<br>
+ <p>Palágyi, Melchior: <span style="font-style:italic;">Frühe Schriften zur Psychologie, Logik und Erkenntnistheorie (1893–1897)</span><br>
+  Hamburg : Igel, 2024
+ <p>Simon, Attila: Religiöse Bindungen der Magyaren in der Slowakei<br>
  Veronika Szeghy-Gayer: Die Juden in der Slowakei zwischen den beiden Weltkriegen<br>
   in: Zückert, M. / Bischof, A. (Hg.):<span style="font-style:italic;">Handbuch der Religions- und Kirchengeschichte der Slowakei im 20. Jahrhundert</span>. Göttingen : Vandenhoeck & Ruprecht, 2024
 <p>Nyiszli, Miklós: <span style="font-style:italic;">Im Jenseits der Menschlichkeit. Ein Gerichtsmediziner in Auschwitz</span><br>
