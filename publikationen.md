@@ -32,6 +32,7 @@ title: publikationen
 <p>
 
 <h3>Kurzgeschichten und Lyrik in Anthologien und Zeitschriften (Auswahl)</h3>
+<p>Vonnák, Diána: Flut <br>in: <span style="font-style:italic;">Sinn und Form. </span> 6/2024
 <p>Babarczy, Eszter: Großmutter <br>
 Papp-Zakor, Ilka: Engelsmahl <br>
   Szvoren, Edina: Ohrwurm-Notizen XXVI (Ich bringe den Herd zum Dröhnen)<br>
