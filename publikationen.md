@@ -32,6 +32,7 @@ title: publikationen
 <p>
 
 <h3>Kurzgeschichten und Lyrik in Anthologien und Zeitschriften (Auswahl)</h3>
+<p>Gedichte von Antal Amadé, László Amadé, István Gyöngyösi, János Rimay, Sebestyén Tinódi und Ferenc Wathay <br>in: Brigitta Pesti (Hg.): <span style="font-style:italic;">Handbuch der ungarischen Literaturgeschichte. Band I: Die ungarische Literatur von ihren Anfängen bis zum 17. Jahrhundert. </span>Wien : Praesens, 2025.
 <p>Vonnák, Diána: Flut <br>in: <span style="font-style:italic;">Sinn und Form. </span> 6/2024
 <p>Babarczy, Eszter: Großmutter <br>
 Papp-Zakor, Ilka: Engelsmahl <br>
