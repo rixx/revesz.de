@@ -33,6 +33,8 @@ permalink: forditasok
 <p>
 
 <h3>Novellák és versek antológiákban és folyóiratokban (válogatás)</h3>
+Amadé Antal, Amadé László, Gyöngyösi István, Rimay János, Tinódi Lantos Sebestyén és Wathay Ferenc versei
+<br>in: Brigitta Pesti (Hg.): Handbuch der ungarischen Literaturgeschichte. Band I: Die ungarische Literatur von ihren Anfängen bis zum 17. Jahrhundert. Wien : Praesens, 2025. 
 <p>Vonnák, Diána: Flut [Dagály]<br>in: <span style="font-style:italic;">Sinn und Form. </span> 6/2024
 <p>Babarczy, Eszter: Großmutter <br>
 Papp-Zakor, Ilka: Engelsmahl <br>
