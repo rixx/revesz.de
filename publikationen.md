@@ -6,6 +6,7 @@ title: publikationen
 <h1>Übersetzungen</h1>
 
 <h3>Bücher</h3>
+<p>Szolcsányi, Ákos: <span style="font-style:italic">David</span> [Dávid családjai] <br> Berlin : Gans, 2025
 <p>Végel, László: <span style="font-style:italic">Unsere unbegrabene Vergangenheit</span> [Temetetlen múltunk] <br> Klagenfurt : Wieser, 2024
 <p>Végel, László: <span style="font-style:italic">Balkanschönheit oder Schlemihls Bastard</span> [Balkáni szépség avagy Slemil fattyúja] <br> Klagenfurt : Wieser, 2023
 <p>Végel, László: <span style="font-style:italic">Neoplanta oder das Gelobte Land. Stadtroman</span> [Neoplanta avagy az Ígéret Földje. Városregény] <br>Novi Sad: Akademska knjiga / Klagenfurt : Wieser, 2022
