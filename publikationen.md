@@ -81,7 +81,9 @@ Hidas, Judit: Tourist in Afrika <br>
   in: Rübberdt, I.; Schlosser, Ch. (Hrsg.): <span style="font-style:italic;">Die unsichtbaren Ungarn</span>. Klagenfurt : Wieser, 1999
 <p>
 <h3>Sachtexte (Auswahl)</h3>
- <p>Palágyi, Melchior: <span style="font-style:italic;">Frühe Schriften zur Psychologie, Logik und Erkenntnistheorie (1893–1897)</span><br>
+ <p>Palágyi, Melchior: Marx und seine Lehre, in:<span style="font-style:italic;">Politische Philosophie / Gespräche mit Palágyi</span><br>
+  Hamburg : Igel, 2026</p>
+  <p>Palágyi, Melchior: <span style="font-style:italic;">Frühe Schriften zur Psychologie, Logik und Erkenntnistheorie (1893–1897)</span><br>
   Hamburg : Igel, 2024</p>
  <p>Simon, Attila: Religiöse Bindungen der Magyaren in der Slowakei<br>
  Veronika Szeghy-Gayer: Die Juden in der Slowakei zwischen den beiden Weltkriegen<br>
