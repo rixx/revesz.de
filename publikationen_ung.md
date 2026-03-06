@@ -85,7 +85,7 @@ Hidas, Judit: Tourist in Afrika [Turista Afrikában]<br>
 <p>
 
 <h3>Ismeretterjesztő szövegek (válogatás)</h3>
-<p>Palágyi, Melchior: Marx und seine Lehre, in: <span style="font-style:italic;">Frühe Schriften zur Psychologie, Logik und Erkenntnistheorie (1893–1897)</span><br>
+<p>Palágyi, Melchior: Marx und seine Lehre, in: <span style="font-style:italic;">Politische Philosophie / Gespräche mit Palágyi</span><br>
   Hamburg : Igel, 2026</p>
 <p>Palágyi, Melchior: <span style="font-style:italic;">Frühe Schriften zur Psychologie, Logik und Erkenntnistheorie (1893–1897)</span><br>
   Hamburg : Igel, 2024</p>
