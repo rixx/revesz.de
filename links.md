@@ -67,8 +67,8 @@ toc: true
 
 **Übersetzungen:**
 
-- <a href="http://databases.unesco.org/xtrans/xtra-form.shtml" target="_blank">Index translationum </a>
-- <a href="http://demeter.oszk.hu/apache2-default/d.php?a=ix" target="_blank">Demeter: Bibliographia Hungarica </a>
+- <a href="https://data.unesco.org/explore/dataset/tran001/information/" target="_blank">Index translationum </a>
+- <a href="https://demeter.oszk.hu/d.php?a=ix" target="_blank">Demeter: Bibliographia Hungarica </a>
 
 ---------------
 
@@ -91,7 +91,6 @@ toc: true
 <!-- Sammlungen -->
 ### Wörterbuchsammlungen – Szótárgyüjtemények
 
-- <a href="http://www.yourdictionary.com/languages/germanic.html#german" target="_blank">Youdictionary – Wörterbücher zu vielen Themen </a>
 - <a href="http://szotar.lap.hu/" target="_blank">szotar.lap.hu </a>
 
 <!-- Mehrsprachige Wörterbücher -->
@@ -110,6 +109,7 @@ toc: true
 
 **Ungarisch**
 
+- <a href="https://szotar.magyarnemet.hu/">szotar.magyarnemet.hu </a>
 - <a href="http://dict.sztaki.hu/deutsch-ungarisch" target="_blank">Sztaki HU <> DE </a>
 - <a href="https://dehu.dict.cc/">dict Ungarisch <> Deutsch </a>
 - <a href="http://mek.oszk.hu/00000/00080/html/" target="_blank">cigány–magyar szójegyzék</a>
@@ -122,26 +122,25 @@ toc: true
 
 **Deutsch**
 
+- <a href="http://www.dwds.de/" target="_blank">DWDS – Digitales Wörterbuch der deutschen Sprache des 20. Jhs </a>
 - <a href="http://awb.saw-leipzig.de/cgi/WBNetz/wbgui_py?sigle=AWB" target="_blank">Althochdeutsches Wörterbuch </a>
 - <a href="https://fwb-online.de/" target="_blank">Frühneuhochdeutsches Wörterbuch </a> 
 - <a href="http://www.zeno.org/Adelung-1793" target="_blank">Adelung - Grammatisch-kritisches Wörterbuch der hochdeutschen Mundart (1793) </a>
 - <a href="https://woerterbuchnetz.de/?sigle=DWB#0" target="_blank">Grimm </a>
-- <a href="http://www.dwds.de/" target="_blank">DWDS – Digitales Wörterbuch der deutschen Sprache des 20. Jhs </a>
 - <a href="https://www.owid.de/" target="_blank">Das Online-Wortschatz-Informationssystem Deutsch des Leibniz-Instituts für Deutsche Sprache (IDS), Mannheim </a>
 - <a href="https://books.google.com/ngrams" target="_blank">Google Ngram Viewer (Verwendungshäufigkeit von Wörtern) </a>
-- <a href="http://www.redensarten-index.de/suche.php4" target="_blank">Redensarten </a>
+- <a href="http://www.redensarten-index.de" arget="_blank">Redensarten </a>
 - <a href="https://www.ostarrichi.org/woerterbuch" target="_blank">Deutsche Sprache in Österreich </a>
 - <a href="http://www.rindvieh.com/" target="_blank">Schimpfwörter Österreich <a/>
 - <a href="http://www.acronymfinder.com/" target="_blank">Acronym Finder </a>
 
 **Ungarisch**
 
-- <a href="https://www.arcanum.hu/hu/online-kiadvanyok/" target="_blank">Arcanum </a> (Értelmező Szótárak) 
+- <a href="https://www.arcanum.hu/hu/online-kiadvanyok/" target="_blank">Arcanum </a> (pl. Értelmező és etimológiai szótárak) 
 - <a href="http://corpus.nytud.hu/mnsz/" target="_blank">Magyar Nemzeti Szövegtár (mit Registrierung) </a>
-- <a href="http://hu.words-finder.com/">Wortsuche, auch rückläufig </a>
 - <a href="https://uesz.nytud.hu/index.html">Új magyar etimológiai szótár </a>
-- <a href="https://mnytud.arts.unideb.hu/sorozat/balassi/index.html">Balassi-szótár </a>
-- <a href="http://mnytud.arts.klte.hu/sorozat/csoksz/szottart.htm" target="_blank">Csokonai szókincstár </a>
+- <a href="https://mnytud.arts.unideb.hu/sorozat/balassi/index.html" target="_blank">Balassi-szótár </a>
+- <a href="https://mek.oszk.hu/20700/20799/20799.pdf" target="_blank">Csokonai szókincstár </a>
 - <a href="http://szekelymagyar.transindex.ro/" target="_blank">Székelymagyar szavak </a>
 
 
@@ -152,14 +151,13 @@ toc: true
 
 - <a href="http://www.gifte.de/Drogen/slangnamen.htm" target="_blank">Drogenslang </a>
 - <a href="http://www.unmoralische.de/bundeswehrlexikon/bundeswehr.htm" target="_blank">Bundeswehr-Sprache </a>
-- <a href="http://www.mundmische.de/" target="_blank">Mundmische - Umgangssprache </a>
 - <a href="https://www.projekt-gutenberg.org/ostwaldh/sprarinn/sprarinn.html">Hans Ostwald: Rinnsteinsprache. Lexikon der Gauner-, Dirnen- und Landstreichersprache</a>
 
 **Ungarisch**
 
-- <a href="http://mnytud.arts.klte.hu/szleng/hu_slang.htm" target="_blank">szlengszótárak </a>
-- <a href="http://mnytud.arts.klte.hu/sorozat/katszl/szotar.htm" target="_blank">Katonai szlengszótár </a>
-- <a href="http://mnytud.arts.klte.hu/szleng/minitini/minitart.htm" target="_blank">mini tini - a mai magyar diáknyelv </a>
+- <a href="https://mnytud.arts.unideb.hu/szleng/egyeb/pocze.pdf" target="_blank">Szlengszótár (2013) </a>
+- <a href="https://mnytud.arts.unideb.hu/sorozat/katszl/h.htm" target="_blank">Katonai szlengszótár </a>
+
 
   
   ---------------
@@ -173,13 +171,11 @@ toc: true
 **Allgemein – Általános**
 
 - <a href="http://www.mek.iif.hu/porta/szint/egyeb/lexikon/pallas/html/index.html" target="_blank">Pallas Lexikon </a>
-- <a href="http://mek.oszk.hu/06700/06758/pdf/" target="_blank">Révai Nagy Lexikona (bandweise als *.pdf) </a>
+- <a href="https://mek.oszk.hu/06700/06758/" target="_blank">Révai Nagy Lexikona (bandweise als *.pdf) </a>
 
 <!-- architektur -->
 **Architektur(geschichte) – Építészet(történet)**
 
-- <a href="http://www.uelze.de/stilkunde/" target="_blank">Stilkunde der Baukunst </a>
-- <a href="https://www.uni-due.de/collcart/christ/kidu/glossar/glossar0.htm" target="_blank">Kirchenbau-Glossar</a>
 - <a href="http://www.kirchbau.de/" target="_blank">Sakralarchitektur </a> 
 - <a href="https://www.rdklabor.de/wiki/Hauptseite" target="_blank">Realenzyklopädie zur Deutschen Kunstgeschichte </a>
 - <a href="https://archive.org/stream/mittelalterliche01heid#page/1/mode/1up" target="_blank">Mittelalterliche Kunstdenkmale Österreich (1858)</a>
@@ -199,7 +195,6 @@ toc: true
 - <a href="https://www.auswaertiges-amt.de/de/service/terminologie/-/215252" target="_blank">Liste der Staatennamen - Auswärtiges Amt </a>
 - <a href="http://mek.oszk.hu/00000/00070/html/fra-geo.htm" target="_blank">Földrajzi nevek magyarul</a>
 - <a href="http://www.ungarndeutsche.de/de/cms/uploads/Ortsnamen_ungarndeutsche.pdf" target="_blank">Ungarische Ortsnamen U-D (.pdf) </a>
-- <a href="http://parizs.tripod.com/trianon/trianon.html" target="_blank">Namen der Orte, die seit Trianon nicht mehr zu Ungarn gehören (ung. und heutiger Name) </a>
 
 <!-- kulturgeschichte -->
 **Geschichte – Történelem**
@@ -211,21 +206,15 @@ toc: true
 
 Bildende Kunst – Képzőművészet
 
-- <a href="http://www.beyars.com/kunstlexikon/lexikon_a_1.html" target="_blank">Kunstlexikon (Hartmann) </a>
+- <a href="https://www.rdklabor.de/" target="_blank">RDK-Labor </a>
 - <a href="http://www.bestandserhaltungsglossar.de/globe.html" target="_blank">Glossar zur Bestandserhaltung von Büchern </a>
-- <a href="http://www.beyars.com/lexikon/lexikon_a.html" target="_blank">Schmucklexikon </a>
-- <a href="http://www.stofflexikon.com/" target="_blank">Stofflexikon </a>
-- <a href="http://www.beyars.com/edelstein-knigge/lexikon.html" target="_blank">Edelsteine </a>
 - <a href="https://kartenspiele.net/lexikon/" target="_blank">Lexikon der Kartenspiele </a>
-- <a href="http://www.muenzwissen.com/" target="_blank">Münzlexikon </a>
-- <a href="http://www.fashion-base.de/Modelexikon/" target="_blank">Textile Fachbegriffe </a>
-- <a href="https://www.uni-muenster.de/Kultbild/missa/glossar/index.html" target="_blank">Vasa sacra und Paramente</a>
-
+- <a href="https://www.mdm.de/muenzwelt/lexikon-a-z/mdm-muenzlexikon" target="_blank">Münzlexikon </a>
+- <a href="https://www.textilglossar.com/" target="_blank">Textile Fachbegriffe </a>
 
 - <a href="http://www.kepszotar.hu/" target="_blank">Képző- és iparművészeti fogalmak </a>
 - <a href="http://www.mek.iif.hu/porta/szint/muszaki/konnyuip/borcipo/html/index.htm" target="_blank">Bőr- és cipőipar </a>
 - <a href="http://www.mek.iif.hu/porta/szint/egyeb/szotar/felsmini/felsmini.htm" target="_blank">A felszolgálás minilexikona </a>
-- <a href="http://www.muveszetek.hu/lexikon/index.html" target="_blank">Magyar művészeti netlexikon </a>
 
 Film:
 
@@ -236,7 +225,6 @@ Film:
 Literatur – Irodalom:
 
 - <a href="http://www.maerchenlexikon.de" target="_blank">Märchenlexikon </a>
-- <a href="http://www.mun.ca/alciato/" target="_blank">Alciat: Book of emblems, lat.-engl. 1621 </a>
 - <a href="http://www.netnik.com/emblemata/inoccasionem.html" target="_blank">Vergleich von Occasio-Darstellungen </a>
 - <a href="http://emblematica.grainger.illinois.edu/" target="_blank">Emblematica Portal </a>
 - <a href="http://www.studiolum.com/es/colophon.htm" target="_blank">Studiolum (Embleme, spanisch)</a>
@@ -248,7 +236,7 @@ Literatur – Irodalom:
 Musik – Zene:
 - <a href="http://www.musiklehre.at/fachwortlexikon/" target="_blank">Musikbegriffe </a>
 - <a href="http://glossar.mv-sulzbach.de/" target="_blank">Musikglossar </a>
-- <a href="http://www.terrasoft.hu/kultura/kaboca/zeneilex/" target="_blank">Zenei lexikon </a>
+
 
 
 <!-- lebensmittel / ernährung -->
@@ -256,14 +244,12 @@ Musik – Zene:
 
 - <a href="http://www.lebensmittellexikon.de" target="_blank">Lebensmittellexikon </a>
 - <a href="http://www.ecowein.de/weinlexi.htm" target="_blank">Weinlexikon </a>
-- <a href="http://www.holmagazin.hu/cikk/borasz-szotar---szakszavak-es-kifejezesek-beturendben-1" target="_blank">Borászat </a>
-- <a href="http://mathom.dura.hu/dura/wein/szotar.html" target="_blank">Borszótár – Weinbegriffe (D–U mit Definition in beiden Sprachen) </a>
 - <a href="http://www.konyhaweb.hu/lexikon/index.html" target="_blank">Konyhalexikon </a>
 
 <!-- politik -->
 **Politik – Politika**
 
-- <a href="http://www.bundestag.de/dokumente/datenhandbuch/26/index.html" target="_blank">Abkürzungsverzeichnis des Bundestags </a>
+- <a href="https://www.bundestag.de/dokumente/parlamentsarchiv/datenhandbuch/26/kapitel-26-476008" target="_blank">Abkürzungsverzeichnis des Bundestags </a>
 - <a href="http://www.verfassungen.de/" target="_blank">Verfassungen der Welt in dt. Sprache</a>
 - <a href="http://www.valasztas.hu/nep97/al/taral1.htm" target="_blank">Népszavazási szótár </a><!--img src="Gomb.JPG"-->
 
@@ -275,8 +261,7 @@ Musik – Zene:
 - <a href="http://www.umwelt-online.de/recht/" target="_blank">Umweltrecht </a><!--img src="Gomb.JPG"-->
 
 - <a href="http://hrgigantic.hupont.hu/7/munkajogi-szotar" target="_blank">Munkajogi szószedet </a>
-- <a href="https://www.1x1forditoiroda.hu/nemet_polgari_perrendtartas.pdf">Német polgári perrendtartás magyarul</a>
-- <a href="http://gisfigyelo.geocentrum.hu/kisokos/index_terinformatika.html" target="_blank">Térinformatikai fogalomtár </a>
+- <a href="https://www.1x1forditoiroda.hu/nemet_polgari_perrendtartas.pdf" target="_blank">Német polgári perrendtartás magyarul</a>
 
 <!-- Religion -->
 **Religion – Vallás**
@@ -286,7 +271,7 @@ Bibel – Biblia:
 - <a href="https://www.bibelwissenschaft.de/online-bibeln/novum-testamentum-graece-na-28/lesen-im-bibeltext/" target="_blank">Nestle/Aland (28. Aufl.) </a>
 - <a href="https://www.biblegateway.com/" target="_blank">Bible Gateway </a>
 - <a href="https://www.die-bibel.de/bibeln/online-bibeln/suche?bibles=LU17&parallels=" target="_blank">Deutsche Bibelausgaben </a>
-- <a href="http://www.obohu.cz/bible/index.php?styl=BRU&k=Gn&kap=1" target="_blank">Buber/Rosenzweig</a>
+- <a href="https://bibel.github.io/BuberRosenzweig/index.html" target="_blank">Buber/Rosenzweig</a>
 
 Christlich – Keresztény:
 
@@ -306,7 +291,7 @@ Jüdisch – Zsidó:
 <!-- sport -->
 **Sport**
 
-- <a href="https://www.ycs.at/4/woerterbuch.htm" target="_blank">ABC der Seglersprache </a>
+- <a href="https://de.scribd.com/document/397247636/Segel-ABC" target="_blank">ABC der Seglersprache </a>
 - <a href="https://www.shipstore.hu/vitorlas_szotar" target="_blank">Vitorlás szótár </a>
 
 <!-- Technik -->
@@ -315,7 +300,6 @@ Jüdisch – Zsidó:
 - <a href="https://www.dictindustry.de/deutsch-ungarisch" target="_blank">Technik WB DE <> HU </a>
 - <a href="https://www.kennzeichenking.de/kfz-kennzeichen-liste" target="_blank">Autokennzeichen </a>
 - <a href="http://denizo.opia.dk/la.trezorejo/vortaroj.kaj.terminaroj/terminaroj/terminaro.fortakurenta.kvinlingva/terminaro.fortakurenta.kvinlingva.txt" target="_blank">Elektrotechnik in vier Sprachen </a>
-- <a href="http://www.oose.de/oep/desc/glo-all.htm" target="_blank">Glossare: Wirtschaft, Computer  Engineering </a>
 - <a href="http://www.szabilinux.hu/seclex/lexikon.htm" target="_blank">Security lexikon </a>
 - <a href="http://www.zeno.org/Lueger-1904" target="_blank">Lexikon der gesamten Technik (1898)</a>
 - <a href="https://de.scribd.com/document/414170256/Magyar-nemet-m%C5%B1szaki-nagyszotar-pdf" target="_blank">Műszaki Nagyszótár (pdf) </a>
@@ -334,7 +318,6 @@ Jüdisch – Zsidó:
 <!-- umwelt -->
 **Umwelt – Környezet**
 
-- <a href="http://www.informatika.bf.uni-lj.si/magus-baltic&ural-altaic.html" target="_blank">Tierglossar in 53 Sprachen </a>
 - <a href="http://www.umweltlexikon-online.de/fp/archiv/RUBhome/index.php" target="_blank">Umweltlexikon mit ausf. Erkl. </a>
 - <a href="http://www.umwelt-online.de/recht/" target="_blank">Umweltrecht </a>
 - <a href="http://www.wasser-lexikon.de/" target="_blank">Wasserlexikon </a>
